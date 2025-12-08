@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SCHOOL one-word domains still available to buy.
 
-This dataset contains 4,268 .SCHOOL one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,591 .SCHOOL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SCHOOL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=school-oneword-domains&utm_content=description.top) (4,266) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.SCHOOL one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/school-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.csv"><b>⬇️ CSV (4.27K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.json"><b>⬇️ JSON (4.27K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.csv"><b>⬇️ CSV (4.59K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.json"><b>⬇️ JSON (4.59K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=school-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.27K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| abactinal.school  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abaft.school      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.school  | available | 58       | 7%     | 9      |                   |                  |                  |
-| abashed.school    | available | 60       | 2%     | 7      |                   |                  |                  |
-| abasic.school     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abatable.school   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abatic.school     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abaxial.school    | available | 54       | 2%     | 7      |                   |                  |                  |
-| abbatial.school   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abdicable.school  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.school  | available | 82       | 5%     | 9      |                   |                  |                  |
-| abdominous.school | available | 56       | 1%     | 10     |                   |                  |                  |
-| abducens.school   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abducent.school   | available | 68       | 1%     | 8      |                   |                  |                  |
-| abducting.school  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abenaki.school    | available | 82       | 3%     | 7      |                   |                  |                  |
-| aberdonian.school | available | 68       | 1%     | 10     |                   |                  |                  |
-| aberrant.school   | available | 74       | 7%     | 8      |                   |                  |                  |
-| abeyant.school    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.school  | available | 54       | 3%     | 9      |                   |                  |                  |
-| abiding.school    | available | 106      | 5%     | 7      |                   |                  |                  |
-| abient.school     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.school    | resell    | 92       | 18%    | 7      | Sav.com, LLC - 26 | 22/10/2024 17:00 | 22/10/2025 17:00 |
-| abit.school       | available | 66       | 16%    | 5      |                   |                  |                  |
-| abject.school     | available | 94       | 8%     | 6      |                   |                  |                  |
-| abkhas.school     | available | 68       | 1%     | 6      |                   |                  |                  |
-| abkhasian.school  | available | 78       | 1%     | 9      |                   |                  |                  |
-| abkhaz.school     | available | 82       | 2%     | 6      |                   |                  |                  |
-| abkhazian.school  | available | 78       | 1%     | 9      |                   |                  |                  |
-| ablated.school    | available | 52       | 2%     | 7      |                   |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
+| abactinal.school  | available | 50       | 1%     | 9      |                                              |                  |                  |
+| abaft.school      | available | 43       | 2%     | 5      |                                              |                  |                  |
+| abandoned.school  | available | 58       | 7%     | 9      |                                              |                  |                  |
+| abashed.school    | available | 60       | 2%     | 7      |                                              |                  |                  |
+| abasic.school     | available | 54       | 2%     | 6      |                                              |                  |                  |
+| abatable.school   | available | 54       | 1%     | 8      |                                              |                  |                  |
+| abatic.school     | available | 54       | 2%     | 6      |                                              |                  |                  |
+| abaxial.school    | available | 54       | 2%     | 7      |                                              |                  |                  |
+| abbatial.school   | available | 50       | 1%     | 8      |                                              |                  |                  |
+| abdicable.school  | available | 50       | 1%     | 9      |                                              |                  |                  |
+| abdominal.school  | available | 82       | 5%     | 9      |                                              |                  |                  |
+| abdominous.school | available | 56       | 1%     | 10     |                                              |                  |                  |
+| abducens.school   | available | 54       | 1%     | 8      |                                              |                  |                  |
+| abducent.school   | available | 68       | 1%     | 8      |                                              |                  |                  |
+| abducting.school  | available | 50       | 1%     | 9      |                                              |                  |                  |
+| abenaki.school    | available | 82       | 3%     | 7      |                                              |                  |                  |
+| aberdonian.school | available | 68       | 1%     | 10     |                                              |                  |                  |
+| aberrant.school   | available | 74       | 7%     | 8      |                                              |                  |                  |
+| abeyant.school    | available | 56       | 2%     | 7      |                                              |                  |                  |
+| abhorrent.school  | available | 54       | 3%     | 9      |                                              |                  |                  |
+| abide.school      | available | 94       | 15%    | 5      |                                              |                  |                  |
+| abiding.school    | available | 106      | 5%     | 7      |                                              |                  |                  |
+| abient.school     | available | 54       | 1%     | 6      |                                              |                  |                  |
+| ability.school    | resell    | 92       | 16%    | 7      | Xiamen ChinaSource Internet Service Co., Ltd | 22/10/2024 17:00 | 22/10/2026 17:00 |
+| abit.school       | available | 66       | 12%    | 5      |                                              |                  |                  |
+| abject.school     | available | 94       | 8%     | 6      |                                              |                  |                  |
+| abkhas.school     | available | 68       | 1%     | 6      |                                              |                  |                  |
+| abkhasian.school  | available | 78       | 1%     | 9      |                                              |                  |                  |
+| abkhaz.school     | available | 82       | 2%     | 6      |                                              |                  |                  |
+| abkhazian.school  | available | 78       | 1%     | 9      |                                              |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/school-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.csv"><b>⬇️ CSV (4.27K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.json"><b>⬇️ JSON (4.27K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.csv"><b>⬇️ CSV (4.59K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/school-oneword-domains/blob/main/school.json"><b>⬇️ JSON (4.59K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=school-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.27K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.SCHOOL one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
