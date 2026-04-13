@@ -64,13 +64,13 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| shared.school    | available | $9.99     | $46.99        | 70             | 39     | 6      | name.com                                                  |
+| drop.school      | available | $9.99     | $46.99        | 86             | 38     | 4      | name.com                                                  |
 | yellow.school    | resell    | —         | —             | 116            | 99     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | travel.school    | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap                                                 |
-| drop.school      | available | $9.99     | $46.99        | 86             | 38     | 4      | name.com                                                  |
+| terminal.school  | available | $9.99     | $46.99        | 104            | 37     | 8      | name.com                                                  |
 | animal.school    | resell    | —         | —             | 92             | 98     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | model.school     | premium   | $64.35    | $128.70       | 90             | 38     | 5      | namecheap                                                 |
-| terminal.school  | available | $9.99     | $46.99        | 104            | 37     | 8      | name.com                                                  |
+| shared.school    | available | $9.99     | $46.99        | 70             | 37     | 6      | name.com                                                  |
 | test.school      | resell    | —         | —             | 72             | 89     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
 | diamond.school   | premium   | $123.75   | $123.75       | 76             | 36     | 7      | name.com                                                  |
 | cozy.school      | available | $9.99     | $46.99        | 110            | 36     | 4      | name.com                                                  |
