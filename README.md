@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .school one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,409 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains · **Median ask:** $14.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/school`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Acup.school      | available | $49.98    | —             | 80             | 5      | 5      | namecheap        |
+| Trex.school      | available | $49.98    | —             | 80             | 24     | 5      | namecheap        |
+| barup.school     | available | $9.99     | —             | 82             | 2      | 6      | name.com         |
+| geton.school     | available | $9.99     | —             | 82             | 10     | 6      | name.com         |
+| getup.school     | available | $9.99     | —             | 82             | 14     | 6      | name.com         |
+| popup.school     | available | $9.99     | —             | 84             | 29     | 6      | name.com         |
+| Apples.school    | available | $49.98    | —             | 90             | 16     | 6      | namecheap        |
+| presents.school  | available | $9.99     | —             | 80             | 9      | 8      | name.com         |
+| headout.school   | available | $9.99     | —             | 82             | 6      | 8      | name.com         |
 | William.school   | available | $49.98    | —             | 74             | 31     | 7      | namecheap        |
 | life.school      | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC      |
 | solutions.school | premium   | $69.30    | $138.60       | 56             | 31     | 9      | namecheap        |
@@ -73,17 +82,8 @@ print(df.head())
 | spaces.school    | available | $9.99     | —             | 54             | 30     | 6      | name.com         |
 | coins.school     | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc      |
 | KFC.school       | premium   | $69.30    | $138.60       | 74             | 27     | 3      | namecheap        |
-| popup.school     | available | $9.99     | —             | 84             | 29     | 6      | name.com         |
-| keep.school      | resell    | —         | —             | 76             | 29     | 4      | Sav.com, LLC - 8 |
+| wall.school      | resell    | —         | —             | 72             | 32     | 4      | Sav.com, LLC - 9 |
 | VHS.school       | premium   | $23.10    | $46.20        | 71             | 20     | 3      | namecheap        |
-| cams.school      | available | $9.99     | —             | 52             | 29     | 4      | name.com         |
-| wall.school      | resell    | —         | —             | 72             | 28     | 4      | Sav.com, LLC - 9 |
-| engineers.school | premium   | $280      | $560          | 60             | 19     | 9      | namecheap        |
-| backyard.school  | available | $9.99     | —             | 80             | 27     | 9      | name.com         |
-| designers.school | premium   | $140      | $280          | 72             | 15     | 9      | namecheap        |
-| bees.school      | available | $9.99     | —             | 54             | 27     | 4      | name.com         |
-| sqm.school       | premium   | $23.10    | $46.20        | 54             | 11     | 4      | namecheap        |
-| Trex.school      | available | $49.98    | —             | 80             | 24     | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,409 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,409 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely focused on one-word .school domains. The set mixes dictionary-style words, action words, and brandable terms such as Acup.school, Trex.school, finals.school, popup.school, and matcha.school. For founders, the main question is whether a name feels clear, memorable, and credible for an education-facing brand. For investors, the focus is tighter: entry price, renewal fit, and whether the word has enough commercial relevance to support resale interest. Because the median ask is 14.84, the strongest names are usually the ones that combine clean spelling, obvious meaning, and a natural fit with education, learning, training, or niche instruction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that fit learning, training, classes, or expertise
+- Check if the word is easy to spell, say, and remember
+- Compare ask price against how specific or broad the term feels
+- Screen for trademark sensitivity before treating a name as ownable
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
