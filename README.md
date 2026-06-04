@@ -1,10 +1,10 @@
-# Available .SCHOOL One-Word Domains (11,408)
+# Available .SCHOOL One-Word Domains (11,409)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C408%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C409%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .school one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,408 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,409 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,408 domains · **Median ask:** $14.84 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains · **Median ask:** $13.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/school`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.school      | available | $49.98    | —             | 80             | 5      | 5      | namecheap        |
-| Trex.school      | available | $49.98    | —             | 80             | 24     | 5      | namecheap        |
-| barup.school     | available | $9.99     | —             | 82             | 2      | 6      | name.com         |
-| geton.school     | available | $9.99     | —             | 82             | 10     | 6      | name.com         |
-| getup.school     | available | $9.99     | —             | 82             | 15     | 6      | name.com         |
-| popup.school     | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
-| Apples.school    | available | $49.98    | —             | 90             | 16     | 6      | namecheap        |
-| presents.school  | available | $9.99     | —             | 80             | 9      | 8      | name.com         |
-| headout.school   | available | $9.99     | —             | 82             | 6      | 8      | name.com         |
-| William.school   | available | $49.98    | —             | 74             | 31     | 7      | namecheap        |
-| life.school      | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC      |
-| solutions.school | premium   | $69.30    | $138.60       | 56             | 31     | 9      | namecheap        |
-| maps.school      | available | $9.99     | —             | 56             | 31     | 4      | name.com         |
-| food.school      | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC      |
-| SanDiego.school  | premium   | $69.30    | $138.60       | 74             | 29     | 9      | namecheap        |
-| spaces.school    | available | $9.99     | —             | 54             | 30     | 6      | name.com         |
-| coins.school     | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc      |
-| KFC.school       | premium   | $69.30    | $138.60       | 74             | 27     | 3      | namecheap        |
-| cams.school      | available | $9.99     | —             | 52             | 29     | 4      | name.com         |
-| wall.school      | resell    | —         | —             | 72             | 32     | 4      | Sav.com, LLC - 9 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| prepare.school     | available | $9.99     | —             | 100            | 15     | 7      | name.com  |
+| desert.school      | available | $9.99     | $46.99        | 104            | 21     | 6      | name.com  |
+| possession.school  | available | $9.99     | —             | 88             | 5      | 10     | name.com  |
+| attitude.school    | available | $9.99     | —             | 94             | 20     | 8      | name.com  |
+| yet.school         | premium   | $23.10    | $46.20        | 112            | 17     | 3      | namecheap |
+| intensive.school   | available | $9.99     | —             | 82             | 6      | 9      | name.com  |
+| chime.school       | available | $9.99     | —             | 94             | 39     | 5      | name.com  |
+| alias.school       | available | $9.99     | —             | 102            | 25     | 5      | name.com  |
+| shoes.school       | premium   | $128.70   | $128.70       | 80             | 21     | 5      | namecheap |
+| behind.school      | available | $9.99     | —             | 102            | 12     | 6      | name.com  |
+| sub.school         | premium   | $69.30    | $138.60       | 96             | 35     | 3      | namecheap |
+| surrogate.school   | available | $9.99     | $46.99        | 100            | 10     | 9      | name.com  |
+| divide.school      | available | $9.99     | —             | 88             | 10     | 6      | name.com  |
+| participant.school | available | $9.99     | —             | 84             | 8      | 11     | name.com  |
+| fruity.school      | premium   | —         | —             | 84             | 10     | 6      | —         |
+| thing.school       | available | $9.99     | —             | 84             | 26     | 5      | name.com  |
+| great.school       | resell    | —         | —             | 140            | 37     | 5      | 1API GmbH |
+| granola.school     | available | $9.99     | —             | 90             | 16     | 7      | name.com  |
+| fireengine.school  | available | $9.99     | —             | 80             | 3      | 11     | name.com  |
+| thread.school      | available | $9.99     | —             | 94             | 24     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,408 live domains                        |
+| 1,000-row public sample | 11,409 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
