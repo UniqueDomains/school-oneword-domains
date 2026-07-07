@@ -1,10 +1,10 @@
-# Available .SCHOOL One-Word Domains (11,409)
+# Available .SCHOOL One-Word Domains (11,410)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C409%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C410%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .school one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,409 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,410 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains · **Median ask:** $13.90 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,410 domains · **Median ask:** $13.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/school`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/school`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SCHOOL one-word domai
 
 ### Files
 
-- `school.csv` — public CSV extract (1,000 rows)
-- `school.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `school.csv`, public CSV extract (1,000 rows)
+- `school.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| prepare.school     | available | $9.99     | —             | 100            | 15     | 7      | name.com  |
-| desert.school      | available | $9.99     | $46.99        | 104            | 21     | 6      | name.com  |
-| possession.school  | available | $9.99     | —             | 88             | 5      | 10     | name.com  |
-| attitude.school    | available | $9.99     | —             | 94             | 20     | 8      | name.com  |
-| yet.school         | premium   | $23.10    | $46.20        | 112            | 17     | 3      | namecheap |
-| intensive.school   | available | $9.99     | —             | 82             | 6      | 9      | name.com  |
-| chime.school       | available | $9.99     | —             | 94             | 39     | 5      | name.com  |
-| alias.school       | available | $9.99     | —             | 102            | 25     | 5      | name.com  |
-| shoes.school       | premium   | $128.70   | $128.70       | 80             | 21     | 5      | namecheap |
-| behind.school      | available | $9.99     | —             | 102            | 12     | 6      | name.com  |
-| sub.school         | premium   | $69.30    | $138.60       | 96             | 35     | 3      | namecheap |
-| surrogate.school   | available | $9.99     | $46.99        | 100            | 10     | 9      | name.com  |
-| divide.school      | available | $9.99     | —             | 88             | 10     | 6      | name.com  |
-| participant.school | available | $9.99     | —             | 84             | 8      | 11     | name.com  |
-| fruity.school      | premium   | —         | —             | 84             | 10     | 6      | —         |
-| thing.school       | available | $9.99     | —             | 84             | 26     | 5      | name.com  |
-| great.school       | resell    | —         | —             | 140            | 37     | 5      | 1API GmbH |
-| granola.school     | available | $9.99     | —             | 90             | 16     | 7      | name.com  |
-| fireengine.school  | available | $9.99     | —             | 80             | 3      | 11     | name.com  |
-| thread.school      | available | $9.99     | —             | 94             | 24     | 6      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| acne.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| yes.school  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| ane.school  | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                           |
+| bean.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| bird.school | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| Ann.school  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| belt.school | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| care.school | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| bud.school  | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                           |
+| bits.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| core.school | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 47                                   |
+| cup.school  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| chew.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| gold.school | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| eve.school  | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap                                           |
+| damn.school | available | $9.99     | $46.99        | high           | low    | 4      | name.com                                            |
+| grow.school | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| Fla.school  | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
+| days.school | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| land.school | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,409 live domains                        |
+| 1,000-row public sample | 11,410 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .school domains. The set mixes dictionary-style words, action words, and brandable terms such as Acup.school, Trex.school, finals.school, popup.school, and matcha.school. For founders, the main question is whether a name feels clear, memorable, and credible for an education-facing brand. For investors, the focus is tighter: entry price, renewal fit, and whether the word has enough commercial relevance to support resale interest. Because the median ask is 14.84, the strongest names are usually the ones that combine clean spelling, obvious meaning, and a natural fit with education, learning, training, or niche instruction.
+This list includes 11,410 one-word domain names on the .school extension, sampled from names like dogsit.school, backyard.school, popup.school, and WiFi.school. Most entries combine a single common word with .school to create a short, memorable name, and the median ask across the set sits near $13.88. Because .school reads as a familiar word rather than a niche extension, many of these names work as brandable options for education-adjacent or playful, community-style projects, while the low typical ask keeps early-stage cost manageable.
 
-- Prefer words that fit learning, training, classes, or expertise
-- Check if the word is easy to spell, say, and remember
-- Compare ask price against how specific or broad the term feels
-- Screen for trademark sensitivity before treating a name as ownable
+- 11,410 one-word .school domain names in this set
+- Median ask near $13.88 across the list
+- Mix of single words and short compounds like popup.school
+- Updated daily as this .school domain pool refreshes
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
