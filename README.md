@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .school one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,333 domains · **Median ask:** $22.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/school`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| acne.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
-| yes.school  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| acne.school | available | $9.99     | —             | low            | low    | 4      | name.com                                            |
+| one.school  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                        |
 | aft.school  | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                                           |
 | amok.school | available | $9.99     | $46.99        | low            | low    | 4      | name.com                                            |
-| bird.school | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| yes.school  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | ane.school  | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                           |
 | bats.school | available | $9.99     | $46.99        | low            | low    | 4      | name.com                                            |
-| care.school | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| bird.school | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | ann.school  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
 | bean.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
-| core.school | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| care.school | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | bud.school  | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                           |
 | belt.school | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
-| gold.school | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| core.school | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | bum.school  | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                           |
 | bits.school | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
-| grow.school | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| gold.school | resell    | —         | —             | low            | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | cup.school  | premium   | $64.35    | $128.70       | medium         | low    | 3      | namecheap                                           |
 | buns.school | available | $9.99     | $46.99        | low            | low    | 4      | name.com                                            |
-| land.school | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| grow.school | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHOOL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
