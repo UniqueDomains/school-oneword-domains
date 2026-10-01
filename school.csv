@@ -1,33 +1,35 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-7fb509d4-a63b-4608-964a-dc2961598d42,nose.school,available,9.99,,high,low,4,name.com,,,
+7fb509d4-a63b-4608-964a-dc2961598d42,nose.school,available,36.49,36.49,high,low,4,namesilo,,,30/09/2026 05:52
 09d611ee-37e1-4dd0-a846-ef5ebf1b71ce,darkening.school,available,9.99,46.99,medium,low,9,name.com,,,13/08/2026 18:10
 a5772ab7-99e4-495f-bb4a-da7a984b4178,exhusband.school,available,9.99,46.99,medium,low,10,name.com,,,17/08/2026 15:21
 267a6406-cbff-43a4-a79a-03079bda5fc1,picker.school,available,38.48,49.98,medium,low,6,namecheap,,,24/09/2026 14:45
 a82e634a-2dc1-4339-8365-f66ed7ef8556,gives.school,available,38.48,49.98,medium,low,5,namecheap,,,18/09/2026 13:54
 cd43c203-e3cc-4f2f-982f-260ccc1c8cbf,awakened.school,available,36.49,36.49,high,low,8,namesilo,,,22/09/2026 14:47
-4e729de4-e02b-448b-8b93-7cc1cb421383,unsafe.school,available,9.99,46.99,high,low,6,name.com,,,13/08/2026 17:17
+4e729de4-e02b-448b-8b93-7cc1cb421383,unsafe.school,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 17:17
 9bfae366-9ce8-4007-96be-c57bab4ba854,bleached.school,available,9.99,46.99,medium,low,8,name.com,,,10/08/2026 13:52
-d453d7fd-666b-4e9b-892d-aec84b9e6d58,foldaway.school,available,9.99,46.99,high,low,8,name.com,,,18/08/2026 10:07
+d453d7fd-666b-4e9b-892d-aec84b9e6d58,foldaway.school,available,9.99,46.99,medium,low,8,name.com,,,18/08/2026 10:07
 55fabab9-5747-4753-8d8a-586bfb3f8d0f,carrel.school,available,36.49,36.49,high,low,6,namesilo,,,18/09/2026 06:05
 2fcb6956-5fe3-4a4c-b616-92476647a7c5,bribery.school,available,36.49,36.49,medium,low,7,namesilo,,,29/09/2026 11:46
 1007b5c6-f3c7-4341-9f8b-a1bbc046926d,harmonious.school,available,9.99,46.99,high,low,10,name.com,,,21/08/2026 01:03
 44f9c68c-8e2f-4962-a54c-d392d3194e7a,anopia.school,available,38.48,49.98,medium,low,6,namecheap,,,19/09/2026 11:39
 3012a43f-5fff-4003-8416-2945055c1e3e,contestants.school,available,38.48,49.98,medium,low,11,namecheap,,,29/09/2026 11:30
-9c146cb2-bd91-4743-b51b-cd78aaa09eb2,lesion.school,available,36.49,36.49,high,low,6,namesilo,,,13/09/2026 13:28
+9c146cb2-bd91-4743-b51b-cd78aaa09eb2,lesion.school,available,36.49,36.49,medium,low,6,namesilo,,,13/09/2026 13:28
+d4906d56-b667-4c47-8308-1558869a2293,aiding.school,available,29.18,29.18,high,low,6,spaceship,,,30/09/2026 12:01
 109d821e-c060-4165-a844-f75dd3563474,substance.school,available,36.49,36.49,high,low,9,namesilo,,,14/09/2026 23:41
 edeb517b-dfa9-4527-b1d8-5e2adba8b8ad,spd.school,premium,36.3,36.3,high,low,3,dynadot,,,28/09/2026 03:51
 94ad5063-c738-433c-8513-136c19b0421e,limit.school,available,38.48,49.98,high,low,5,namecheap,,,29/09/2026 13:54
 c2b2de81-e1ae-4544-a8a3-465b8861b4e6,larger.school,available,38.48,49.98,high,low,6,namecheap,,,22/09/2026 20:38
 23d351b3-fc2d-4e25-a882-c02a715d6f5a,gladsome.school,available,9.99,46.99,high,low,8,name.com,,,19/08/2026 00:13
+8a90a156-d088-4ce6-b45d-daa9e543c854,exploitation.school,available,29.18,29.18,medium,low,12,spaceship,,,30/09/2026 06:02
 50b548c4-7cb3-447d-870c-1bdd32bd10f8,lateral.school,available,9.99,46.99,high,low,7,name.com,,,22/08/2026 20:34
-1a8d339c-1504-4415-818f-8e2bcd6f952b,soundly.school,available,36.49,36.49,high,low,7,namesilo,,,16/09/2026 05:34
+1a8d339c-1504-4415-818f-8e2bcd6f952b,soundly.school,available,36.49,36.49,medium,low,7,namesilo,,,16/09/2026 05:34
 c4f7414c-22e7-48b8-bdc2-89ed8ac046cf,disgusted.school,available,9.99,46.99,medium,low,9,name.com,,,14/08/2026 10:30
 deadfaaa-5173-455e-9738-7981296d23bf,lists.school,available,36.49,36.49,medium,low,5,namesilo,,,17/09/2026 08:32
 f10b7bef-4045-40ff-851d-44959b61f9b1,overrated.school,available,36.49,36.49,medium,low,10,namesilo,,,18/09/2026 11:36
 bbbab864-fcbe-4d06-9914-25969ee49cd0,camel.school,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 01:20
 c2fee408-8223-427e-9f57-2a89ccc3037b,tecumseh.school,available,36.49,36.49,medium,low,8,namesilo,,,29/09/2026 08:12
-191605ed-44ed-45ae-90f3-38d04957f072,require.school,available,9.99,,high,low,7,name.com,,,
-45709451-23be-47e7-92e5-3815b0d0794c,horrible.school,available,9.99,46.99,high,low,8,name.com,,,18/08/2026 15:44
+191605ed-44ed-45ae-90f3-38d04957f072,require.school,available,36.49,36.49,high,low,7,namesilo,,,30/09/2026 05:27
+45709451-23be-47e7-92e5-3815b0d0794c,horrible.school,available,9.99,46.99,medium,low,8,name.com,,,18/08/2026 15:44
 e3cff760-88f1-45d0-ad01-01d76d1266b6,burnable.school,available,9.99,46.99,medium,low,8,name.com,,,11/08/2026 10:44
 dfd3ab58-7359-4065-bfe3-521e304f2fbc,liar.school,available,36.49,36.49,high,low,4,namesilo,,,27/09/2026 14:44
 e7e949cc-ad93-4102-adb1-d1dac7a627d3,onerous.school,available,9.99,46.99,medium,low,7,name.com,,,11/08/2026 10:31
@@ -63,17 +65,18 @@ d4acf1f3-50eb-4b7f-8729-5601073507df,bournemouth.school,available,36.49,36.49,me
 28a3ef85-b345-430c-ae9b-deaab3f03520,craze.school,available,38.48,49.98,high,low,5,namecheap,,,24/09/2026 19:15
 e43c0727-8836-4bc6-9eaa-5918ee63b5ed,cruelty.school,available,38.48,49.98,medium,low,7,namecheap,,,24/09/2026 19:49
 39226640-943c-48d3-ace0-aa281c530cba,acrobatic.school,available,9.99,46.99,high,low,9,name.com,,,
-77ed1bf8-5a13-4634-8d33-b019f7b7bf32,connection.school,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",23/06/2025 15:15,23/06/2027 15:15,28/09/2026 04:24
+77ed1bf8-5a13-4634-8d33-b019f7b7bf32,connection.school,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",23/06/2025 15:15,23/06/2027 15:15,01/10/2026 02:25
 7119dd69-d9e2-4c1f-b4eb-b02c29002aed,odium.school,available,38.48,49.98,medium,low,5,namecheap,,,16/09/2026 15:27
-ec1082db-bba3-446d-ba99-8de7bbf641a5,palatal.school,available,36.49,36.49,high,low,7,namesilo,,,04/09/2026 23:18
+ec1082db-bba3-446d-ba99-8de7bbf641a5,palatal.school,available,36.49,36.49,medium,low,7,namesilo,,,04/09/2026 23:18
 cebeabf2-3bee-4c94-be4a-71afe698148b,eventful.school,available,9.99,46.99,high,low,8,name.com,,,12/08/2026 22:36
-74a18643-ab41-499e-ae23-c9974286df41,underestimate.school,available,9.99,,high,low,13,name.com,,,
+74a18643-ab41-499e-ae23-c9974286df41,underestimate.school,available,9.99,,medium,low,13,name.com,,,
 95e9e228-4c59-44d6-80d1-f3e4f5ab6e40,bextra.school,available,36.49,36.49,medium,low,6,namesilo,,,23/09/2026 12:09
 99df0191-6143-436c-8247-9d57e2a547b6,balkans.school,available,36.49,36.49,medium,low,7,namesilo,,,21/09/2026 22:15
 b5258d60-b7a7-4c11-a3dd-1cac7c578ad9,acorus.school,available,36.49,36.49,medium,low,6,namesilo,,,17/09/2026 02:25
 9246ee1f-a524-4e8e-81e8-61ff4cada5c5,floppy.school,available,9.99,46.99,high,low,6,name.com,,,18/08/2026 08:51
-3357a6a8-a487-4d17-ba79-65e8f89e53f3,ternary.school,available,9.99,46.99,high,low,7,name.com,,,
+3357a6a8-a487-4d17-ba79-65e8f89e53f3,ternary.school,available,9.99,46.99,medium,low,7,name.com,,,
 282f5eed-e9a8-462d-ab48-afa768c45072,powers.school,available,9.99,,high,low,6,name.com,,,
+7bf16f2a-f948-4dc5-be11-4fe8b540228f,undisturbed.school,available,36.49,36.49,high,low,11,namesilo,,,30/09/2026 12:13
 5eb0cf28-ac47-45ec-8620-be88c65014e7,francs.school,available,36.49,36.49,low,low,6,namesilo,,,28/09/2026 13:09
 63a0e2be-4e4d-4521-9b74-ed34fc0695dd,bazooka.school,available,38.48,49.98,high,low,7,namecheap,,,22/09/2026 18:25
 583357ab-e442-47e4-858d-1d19739841d1,malfunction.school,available,28.2,28.2,high,low,11,cloudflare,,,29/09/2026 08:32
@@ -95,10 +98,12 @@ bb5d210a-81a9-4402-99ab-3ec0598ab8ac,intersex.school,available,9.99,46.99,high,l
 e9f4a476-eb1a-4137-856d-fbf64c818fe3,main.school,resell,,,high,low,4,DropCatch.com 393 LLC,16/12/2025 15:15,16/12/2026 15:15,26/09/2026 07:23
 b2ca21dd-b21f-4c1a-a94d-cd07bcf179ef,arranged.school,available,38.48,49.98,high,low,8,namecheap,,,22/09/2026 08:25
 95546575-47f9-4868-a8ea-7aad2ada3283,alleyway.school,available,36.49,36.49,medium,low,8,namesilo,,,19/09/2026 04:05
+ff52cd1d-70b5-44af-a64f-876046d5b2e6,prolong.school,available,5.66,29.35,high,low,7,porkbun,,,30/09/2026 19:12
 facdb35d-83e8-4c86-91ef-0315c1ea9e22,piggyback.school,available,36.49,36.49,high,low,9,namesilo,,,15/09/2026 19:45
 eb427c2b-0cfd-4183-92cb-9f6e2020d77f,abidance.school,available,38.48,49.98,medium,low,8,namecheap,,,16/09/2026 15:33
 ab3520ce-83aa-48e6-9c46-ba329a14b49a,dawson.school,available,38.48,49.98,high,low,6,namecheap,,,25/09/2026 04:48
 7f064f6a-dd34-41fa-a5be-d80a7af353d7,unskilled.school,available,9.99,46.99,medium,low,9,name.com,,,
+a67d8b6c-cb02-480c-b7de-aa6361171714,wilt.school,available,29.18,29.18,medium,low,4,spaceship,,,30/09/2026 19:06
 05d6ec03-6d92-488e-a7c0-02dbe760ce63,beneath.school,available,36.49,36.49,medium,low,7,namesilo,,,28/09/2026 12:25
 c3d2895e-8eed-4f4d-a4a8-5a1de721dd12,clash.school,available,36.49,36.49,high,low,5,namesilo,,,29/09/2026 09:50
 3833b757-8943-4158-8ae3-9ae2b4288d49,est.school,premium,118.8,118.8,high,low,3,namesilo,,,28/09/2026 01:49
@@ -107,16 +112,18 @@ c3d2895e-8eed-4f4d-a4a8-5a1de721dd12,clash.school,available,36.49,36.49,high,low
 1b846a77-b0c1-4018-a836-6e21c4e3f02b,authorized.school,available,38.48,49.98,high,low,10,namecheap,,,22/09/2026 13:48
 c4d7c4cb-0503-42d1-be57-5e009608bedf,focally.school,available,38.48,49.98,medium,low,7,namecheap,,,14/09/2026 19:10
 88364fff-f420-47b2-8f31-b64f823b4f4a,runway.school,resell,,,high,low,6,,,,28/09/2026 06:39
+2d24802d-4e29-4580-add7-413478d048c4,panting.school,available,29.18,29.18,medium,low,7,spaceship,,,01/10/2026 03:15
 4fe86c0d-44f8-4eb8-9383-ef9ff7b686a3,unshaven.school,available,36.49,36.49,medium,low,8,namesilo,,,12/09/2026 19:40
-4fcd7842-d6ae-423f-af72-991f3d216da5,anselm.school,available,36.49,36.49,high,low,6,namesilo,,,19/09/2026 12:02
-1038f229-4bfd-4ccd-a7b5-0c1ecb30c0ea,mammalian.school,available,9.99,46.99,high,low,9,name.com,,,24/08/2026 14:19
-bbc95fee-e9b9-41f1-8475-620bcdc55aee,disappointed.school,available,9.99,,medium,low,12,name.com,,,
+4fcd7842-d6ae-423f-af72-991f3d216da5,anselm.school,available,36.49,36.49,medium,low,6,namesilo,,,19/09/2026 12:02
+1038f229-4bfd-4ccd-a7b5-0c1ecb30c0ea,mammalian.school,available,9.99,46.99,medium,low,9,name.com,,,24/08/2026 14:19
+bbc95fee-e9b9-41f1-8475-620bcdc55aee,disappointed.school,available,28.2,28.2,medium,low,12,cloudflare,,,01/10/2026 03:51
 2408615d-ce9a-4306-8d77-6167971e9386,trance.school,available,36.49,36.49,high,low,6,namesilo,,,28/09/2026 13:44
 fcff824c-f1f6-43ba-88b5-0f965d338747,cecil.school,available,36.49,36.49,high,low,5,namesilo,,,29/09/2026 09:15
 bcec15c1-087e-421b-b783-b6f674acfe93,jittery.school,available,9.99,46.99,medium,low,7,name.com,,,15/08/2026 08:41
 1364950e-a0cf-4aad-ad45-bf5fd93abc1f,mbd.school,premium,118.8,118.8,medium,low,3,namesilo,,,17/09/2026 06:35
 e1b020fe-124b-443b-b58c-b334565a434d,peachy.school,available,9.99,46.99,high,low,6,name.com,,,08/08/2026 12:41
 4611e74e-812f-43b5-8ac0-91593668c1b7,baseborn.school,available,9.99,46.99,low,low,8,name.com,,,08/08/2026 21:34
+e4a3a6af-ed1b-40b7-8584-dc7358b1e11c,jonesboro.school,available,38.48,49.98,medium,low,9,namecheap,,,01/10/2026 02:47
 c363009a-5f39-4a24-99c3-82e70573b6e8,lutecium.school,available,36.49,36.49,medium,low,8,namesilo,,,20/09/2026 23:39
 6ed52d1b-289f-4298-99ae-b84ee361a7ff,lottery.school,available,36.49,36.49,high,low,7,namesilo,,,30/09/2026 03:22
 2fade3d4-32c1-48b0-97ee-4c8be63b6b58,expansive.school,available,9.99,46.99,high,low,9,name.com,,,17/08/2026 18:00
@@ -131,16 +138,19 @@ d25c1cad-b693-42af-8f79-c484f14a545f,arundel.school,available,29.18,29.18,medium
 8a3cf44c-a4fd-4a46-bf83-b44861fde01e,bedamn.school,available,9.99,46.99,low,low,6,name.com,,,13/08/2026 16:21
 23d5bc76-0ce9-459e-a30e-09aec42b81ee,moses.school,available,38.48,49.98,high,low,5,namecheap,,,19/09/2026 10:00
 d06d9b14-cc26-42a7-8644-316d31959040,spinoza.school,available,36.49,36.49,high,low,7,namesilo,,,22/09/2026 09:34
+1178bab1-6b32-49ad-ab9e-83998bcca580,passions.school,available,36.49,36.49,medium,low,8,namesilo,,,30/09/2026 06:23
+84b09d59-0aa3-4f12-8feb-85a8302af1d9,inglewood.school,available,28.2,28.2,medium,low,9,cloudflare,,,30/09/2026 13:40
 53f35010-e011-489c-8c8f-2ff19773da92,alizarine.school,available,36.49,36.49,medium,low,9,namesilo,,,18/09/2026 08:13
-8534a154-5246-4c5c-a020-598dc0c240db,glaser.school,available,5.66,29.35,high,low,6,porkbun,,,30/09/2026 01:21
+8534a154-5246-4c5c-a020-598dc0c240db,glaser.school,available,5.66,29.35,medium,low,6,porkbun,,,30/09/2026 01:21
 c8addb06-79ff-4e78-8d7e-a8864f1427f6,aztecan.school,available,38.48,49.98,high,low,7,namecheap,,,21/09/2026 11:37
-609b5bc0-65ce-480d-bb2b-882155d5e8c0,usher.school,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 00:41
+609b5bc0-65ce-480d-bb2b-882155d5e8c0,usher.school,available,29.18,29.18,medium,low,5,spaceship,,,29/09/2026 00:41
 47ec294a-55c4-4ca3-9bfc-de6cf95f9de1,inured.school,available,9.99,46.99,medium,low,6,name.com,,,17/08/2026 10:01
 66a15c51-df53-4936-886e-855f25b94a73,unequaled.school,available,36.49,36.49,high,low,9,namesilo,,,12/09/2026 09:09
 1e711688-a836-4b27-880f-8bf9a3994e8b,spying.school,available,29.18,29.18,medium,low,6,spaceship,,,29/09/2026 06:49
 6dce35aa-6850-404a-8744-935c1ecb610f,vagrant.school,available,9.99,46.99,high,low,7,name.com,,,14/08/2026 19:18
 fc27d69b-6483-460f-b0c1-92349933b6f9,tre.school,premium,38.94,38.94,high,low,3,namesilo,,,29/09/2026 02:48
 8d3a24fb-df9a-456d-9b9d-3e826de3d4a9,dahna.school,available,36.49,36.49,medium,low,5,namesilo,,,19/09/2026 23:21
+8f4312b5-d890-4518-88a0-3994ea3de6b3,lecturer.school,available,36.49,36.49,high,low,8,namesilo,,,30/09/2026 10:24
 58545a28-c01c-4857-bc25-20487249e918,slaveless.school,available,9.99,46.99,medium,low,9,name.com,,,18/08/2026 14:44
 da5e326e-24fb-4661-9c2e-5a462c158da3,distaste.school,available,36.49,36.49,medium,low,8,namesilo,,,19/09/2026 14:55
 f9125405-88a8-4e51-b0d5-573996ff12d8,marxist.school,available,9.99,46.99,high,low,7,name.com,,,10/08/2026 17:53
@@ -149,9 +159,11 @@ f9125405-88a8-4e51-b0d5-573996ff12d8,marxist.school,available,9.99,46.99,high,lo
 98cb4f6d-3f47-4417-8f9f-d501ce33e90b,coveted.school,available,36.49,36.49,high,low,7,namesilo,,,24/09/2026 00:56
 72dfa7e2-4b3b-4ffe-ba94-47d75e04f4d3,unpressed.school,available,36.49,36.49,low,low,9,namesilo,,,12/09/2026 17:24
 37001bf9-0b63-4aaa-9d60-9e5d26806b9c,lightsome.school,available,9.99,46.99,medium,low,9,name.com,,,10/08/2026 14:41
+53f13995-b81a-4ddf-ba64-b51153ba643d,yoo.school,premium,118.8,118.8,high,low,3,namesilo,,,30/09/2026 03:49
 aed2f917-4b80-4829-a461-361cf37d1f22,episode.school,available,5.57,30.18,high,low,7,dynadot,,,29/09/2026 18:15
-bfb58c5e-4105-4034-811f-0b2b0a09aa56,equally.school,available,28.2,28.2,high,low,7,cloudflare,,,28/09/2026 12:20
+bfb58c5e-4105-4034-811f-0b2b0a09aa56,equally.school,available,28.2,28.2,medium,low,7,cloudflare,,,28/09/2026 12:20
 b0dff0a4-b798-4424-886f-a02dd1dce432,cared.school,available,38.48,49.98,medium,low,5,namecheap,,,25/09/2026 19:49
+d580ad51-8b6e-440d-affd-8198dbcdcc3b,elia.school,available,29.18,29.18,high,low,4,spaceship,,,01/10/2026 01:20
 1ae5f24e-3efa-410d-a579-12cfaf6b20ee,spent.school,available,9.99,46.99,medium,low,5,name.com,,,14/08/2026 14:53
 62add903-dee8-4c60-9495-b7ce30a0c3d5,bagman.school,available,38.48,49.98,medium,low,6,namecheap,,,21/09/2026 18:10
 86a3f48c-bf5b-4140-b268-4d041caa2224,katherine.school,available,36.49,36.49,high,low,9,namesilo,,,28/09/2026 03:49
@@ -161,9 +173,11 @@ df419ca7-02da-4aac-920b-557a99f20ca6,scope.school,available,36.49,36.49,high,low
 3a6ae522-1734-4386-980f-fce41ec791f0,cuvier.school,available,36.49,36.49,high,low,6,namesilo,,,22/09/2026 07:06
 4088b5d9-df21-4b4c-aee9-70062ff7c6c1,socket.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 13:58
 bb2ac028-882c-4841-8d64-244ece225b93,antlia.school,available,36.49,36.49,medium,low,6,namesilo,,,19/09/2026 15:21
+2f201358-737b-4fcb-a771-f3cf7b0f8c53,gev.school,premium,38.94,38.94,medium,low,3,namesilo,,,30/09/2026 12:48
 56361969-6df7-4a5f-8342-880202d4e993,somerville.school,available,36.49,36.49,medium,low,10,namesilo,,,27/09/2026 01:44
 408b467f-37b2-4b35-b918-b5f58271f8fa,seeing.school,available,29.18,29.18,high,low,6,spaceship,,,27/09/2026 19:35
 9d4921ba-3a13-4098-9f7a-4353cc64e3dc,generator.school,available,55.99,55.99,high,low,9,godaddy,,,28/09/2026 01:59
+fef4693a-3351-44b6-b804-f9680372a86c,mohave.school,available,5.57,30.18,high,low,6,dynadot,,,01/10/2026 03:01
 4f589c5f-0de0-4ffd-8273-e741351ff0e5,attilio.school,available,36.49,36.49,medium,low,7,namesilo,,,21/09/2026 01:49
 924dab68-72ef-4314-acac-702279e4351e,legibly.school,available,36.49,36.49,medium,low,7,namesilo,,,14/09/2026 11:06
 95fa8fc6-5d62-4072-9efd-58e95d971c3e,crude.school,available,36.49,36.49,high,low,5,namesilo,,,24/09/2026 02:12
@@ -175,7 +189,7 @@ d9438c20-68b6-4a58-b9ca-ad59a08b9137,cumulative.school,available,9.99,46.99,high
 1ad778a6-3991-4839-8a79-68eadb529656,hookup.school,available,9.99,,high,low,7,name.com,,,
 c77efe34-43ac-4f5e-b07e-8d032d9c5c19,darkly.school,available,36.49,36.49,medium,low,6,namesilo,,,14/09/2026 10:39
 31bed8e6-63e8-49a5-ae76-6141b764bc7f,maps.school,available,9.99,46.99,high,low,4,name.com,,,
-da86e098-53b8-48de-a4c7-00139952a3aa,statement.school,available,29.18,29.18,high,low,9,spaceship,,,28/09/2026 05:17
+da86e098-53b8-48de-a4c7-00139952a3aa,statement.school,available,28.2,28.2,high,low,9,cloudflare,,,01/10/2026 03:18
 cbc21667-1d63-43fb-aac5-7f5a44b39367,overjoyed.school,available,38.48,49.98,high,low,9,namecheap,,,04/09/2026 20:49
 e208b9f7-8017-472e-90ad-30f29852976b,fertilizer.school,available,36.49,36.49,high,low,10,namesilo,,,29/09/2026 06:53
 10851fb6-898e-444c-8f0a-b51130872010,astounding.school,available,36.49,36.49,high,low,10,namesilo,,,22/09/2026 10:29
@@ -224,13 +238,13 @@ bbb17a69-f747-4766-8d31-8b978fb9ee34,radish.school,available,38.48,49.98,high,lo
 595d7406-037e-4536-8860-ba63d2b59efe,bantu.school,available,9.99,46.99,medium,low,5,name.com,,,08/08/2026 14:50
 d25b832d-067d-41a6-855a-87d2a1ac106b,witt.school,available,36.49,36.49,high,low,4,namesilo,,,28/09/2026 04:15
 d47d952a-8c28-4534-8c92-73ff682ebdfb,swinging.school,available,9.99,46.99,high,low,8,name.com,,,23/08/2026 08:43
-06b76d5a-b6d7-480a-a8a3-8670eb2e7639,fossorial.school,available,9.99,46.99,high,low,9,name.com,,,18/08/2026 13:21
+06b76d5a-b6d7-480a-a8a3-8670eb2e7639,fossorial.school,available,9.99,46.99,medium,low,9,name.com,,,18/08/2026 13:21
 21d6d5ae-916b-4af2-83d2-8ac3b338f7fb,lettuce.school,available,38.48,49.98,high,low,7,namecheap,,,29/09/2026 03:25
 db5835fa-dea7-44df-a7d7-1dc082704fe8,enchant.school,available,9.99,46.99,high,low,7,name.com,,,21/08/2026 07:46
 fc5324c4-5c00-4afa-824b-d8de91a79140,passee.school,available,9.99,46.99,medium,low,6,name.com,,,14/08/2026 01:19
 2ef9eeed-1ec0-41f3-8b57-c3922626c73b,mines.school,available,28.2,28.2,low,low,5,cloudflare,,,28/09/2026 13:08
 8bac1848-3c10-4ada-90a0-db89197df3cd,algiers.school,available,36.49,36.49,medium,low,7,namesilo,,,18/09/2026 06:59
-3bf3353c-8f8e-4759-a115-df9b556afdb6,upset.school,available,38.48,49.98,high,low,5,namecheap,,,24/09/2026 11:19
+3bf3353c-8f8e-4759-a115-df9b556afdb6,upset.school,available,38.48,49.98,medium,low,5,namecheap,,,24/09/2026 11:19
 a2b22439-24d1-4883-95f3-f6b596f982cd,detention.school,available,5.66,29.35,medium,low,9,porkbun,,,27/09/2026 12:53
 e7e5cecf-842c-465f-9230-367717cb77e9,acinus.school,available,36.49,36.49,medium,low,6,namesilo,,,17/09/2026 01:46
 7fb2c2c1-344a-4ac5-a605-b0f27cb6e2c9,unquiet.school,available,36.49,36.49,medium,low,7,namesilo,,,12/09/2026 17:40
@@ -257,6 +271,7 @@ e872b130-f99e-4d32-9d7f-b5d0c629075a,fractious.school,available,9.99,46.99,mediu
 1f76c33e-1d19-49c4-824b-d2d2f7d5df90,twenties.school,available,36.49,36.49,high,low,8,namesilo,,,16/09/2026 12:09
 a809aaf8-4345-4ff2-9b30-4a0938204f8b,conversations.school,available,36.49,36.49,medium,low,13,namesilo,,,28/09/2026 08:58
 48ceb724-dd07-4762-807f-b826ed3d5c17,untidy.school,available,38.48,49.98,medium,low,6,namecheap,,,12/09/2026 21:22
+8f40a35b-785b-4d78-a64a-872c75d709d1,chromosome.school,available,36.49,36.49,medium,low,10,namesilo,,,30/09/2026 09:09
 d8c770f4-9c39-497b-89ef-9b4404d3ae91,lp.school,resell,,,high,low,3,"Sav.com, LLC - 25",14/09/2025 15:15,14/09/2027 15:15,30/09/2026 01:45
 dbedb1e7-44c4-467e-ad34-b2aa3fb229cc,kristen.school,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 09:38
 ccbd4130-67a3-49be-bc3b-f2f7cec7676c,aura.school,resell,,,high,medium,4,"Sav.com, LLC - 47",22/11/2025 15:15,22/11/2026 15:15,26/09/2026 04:08
@@ -267,10 +282,10 @@ e844c1ca-3f91-4edd-bb8c-23192dc7cf20,bigamist.school,available,36.49,36.49,mediu
 76fca5c3-e2eb-463d-b84a-d262eec471a4,reported.school,available,36.49,36.49,high,low,8,namesilo,,,27/09/2026 11:56
 b6f9ce7e-f0cb-4f0d-85be-ea844874eec0,assay.school,available,36.49,36.49,high,low,5,namesilo,,,20/09/2026 15:54
 4e200a23-07f8-4ef2-a924-9b13a670450e,mildly.school,available,36.49,36.49,medium,low,6,namesilo,,,15/09/2026 14:43
-80a6c932-2273-4b4b-84a7-da7e344aa46a,barbarian.school,available,9.99,46.99,high,low,9,name.com,,,08/08/2026 15:26
+80a6c932-2273-4b4b-84a7-da7e344aa46a,barbarian.school,available,9.99,46.99,medium,low,9,name.com,,,08/08/2026 15:26
 cba7d3c0-80e9-4140-a458-f95dea7fea61,shallow.school,available,29.18,29.18,medium,low,7,spaceship,,,27/09/2026 20:23
 e9a77528-0078-430f-8a78-59a94ab87816,anaphase.school,available,36.49,36.49,medium,low,8,namesilo,,,19/09/2026 02:09
-b194c69f-bd4b-4303-a387-07d9ac0f1324,offhand.school,available,9.99,46.99,high,low,7,name.com,,,
+b194c69f-bd4b-4303-a387-07d9ac0f1324,offhand.school,available,9.99,46.99,medium,low,7,name.com,,,
 9cca919c-9800-4a27-ac79-f4990035a97e,unlocked.school,available,36.49,36.49,high,low,8,namesilo,,,12/09/2026 01:39
 3dd9d49e-46b1-4496-9b37-4bbf6359f790,size.school,available,38.48,49.98,high,low,4,namecheap,,,27/09/2026 22:17
 fe8c3c28-b797-4235-8c10-67174e01170b,loose.school,available,36.49,36.49,medium,low,5,namesilo,,,22/09/2026 10:42
@@ -278,16 +293,21 @@ fe8c3c28-b797-4235-8c10-67174e01170b,loose.school,available,36.49,36.49,medium,l
 ca24b961-b440-4ad4-a10a-267e50000ca1,humpback.school,available,9.99,46.99,medium,low,8,name.com,,,13/08/2026 07:47
 f434aa56-b4ae-4d40-834c-611ec5cb3f56,pencilled.school,available,36.49,36.49,medium,low,9,namesilo,,,08/09/2026 13:59
 b57aebb9-7e27-4338-8c90-52d871fea73a,truculent.school,available,38.48,49.98,medium,low,9,namecheap,,,11/09/2026 20:29
+f5415bdb-ca4e-4afd-92e7-b850854d7c74,penicillin.school,available,36.49,36.49,high,low,10,namesilo,,,30/09/2026 10:50
 60d5d118-aafb-4462-af01-8e20e05f9797,regards.school,available,29.18,29.18,medium,low,7,spaceship,,,28/09/2026 12:38
 32cd4b74-b21a-49d4-808b-eaf8e591c1f9,heavenward.school,available,9.99,46.99,medium,low,10,name.com,,,21/08/2026 02:31
 d2d71ed1-498b-47e0-9e60-ca83ce31ce07,chinchy.school,available,9.99,46.99,low,low,7,name.com,,,12/08/2026 05:42
+8b8bffaa-5a0f-4af5-b58c-1460c4960768,greenpeace.school,available,5.57,30.18,high,low,10,dynadot,,,30/09/2026 17:30
 4d45fa1f-6295-48b9-a067-ec0402688a0a,oengus.school,available,36.49,36.49,medium,low,6,namesilo,,,17/09/2026 12:31
+a4e4c7a9-16f6-4c55-811f-6e98b1dfaf20,colfax.school,available,29.18,29.18,medium,low,6,spaceship,,,30/09/2026 13:56
 89022e6f-4cd6-4a4c-ad1a-eab4f73a4a7e,hock.school,available,36.49,36.49,high,low,4,namesilo,,,09/09/2026 16:33
+425f44ca-ee5f-439b-bbc7-6ceeae8b5f72,cilicia.school,available,29.18,29.18,medium,low,7,spaceship,,,30/09/2026 13:19
+fb687264-ff28-4ca3-9947-fa57fed7f103,mapping.school,available,36.49,36.49,high,low,7,namesilo,,,30/09/2026 09:11
 7f599c90-9f0f-4f6d-ade0-e5854bab60f8,feathers.school,available,36.49,36.49,medium,low,8,namesilo,,,28/09/2026 08:18
 ae7c92bd-e95a-4cfb-a5d1-9177ca3f59d8,geoffrey.school,available,36.49,36.49,medium,low,8,namesilo,,,25/09/2026 13:35
 43dbb84f-aa18-4306-b2bc-4913fa33f079,abattis.school,available,38.48,49.98,medium,low,7,namecheap,,,16/09/2026 14:11
 1db9056d-97a3-4933-a992-3d2b95ffcd91,baden.school,available,36.49,36.49,medium,low,5,namesilo,,,25/09/2026 13:59
-504dd4e3-12be-44df-88a0-625608951efa,caledonia.school,available,38.48,49.98,high,low,9,namecheap,,,27/09/2026 03:27
+504dd4e3-12be-44df-88a0-625608951efa,caledonia.school,available,38.48,49.98,medium,low,9,namecheap,,,27/09/2026 03:27
 7c489327-b2e7-4b01-97de-1efd13919baf,bassoon.school,available,36.49,36.49,high,low,7,namesilo,,,22/09/2026 12:33
 8dbdf6b4-a3dd-4882-a92d-9afedd5ecbc2,ban.school,premium,64.35,128.7,high,low,3,namecheap,,,18/08/2026 11:10
 a30bc8b8-e088-44a2-bf1e-afd8c2f36817,browbeat.school,available,9.99,46.99,medium,low,8,name.com,,,11/08/2026 08:53
@@ -299,16 +319,20 @@ df766a41-395f-4b35-b6fd-9389682e62b6,alopecia.school,available,36.49,36.49,mediu
 9ab2bf38-593a-4e75-90b7-28b09a65acb6,horned.school,available,9.99,46.99,medium,low,6,name.com,,,21/08/2026 14:04
 88483916-ac16-4c71-819f-6903dd8fc92c,baedeker.school,available,38.48,49.98,medium,low,8,namecheap,,,21/09/2026 17:22
 3df27085-c1cf-4c82-81f6-adf94b32efee,noncurrent.school,available,38.48,49.98,medium,low,10,namecheap,,,03/09/2026 19:01
+7f7fcb0f-3055-48a1-b632-79de157aa27b,annan.school,available,28.2,28.2,medium,low,5,cloudflare,,,30/09/2026 05:28
+e33874a7-39a0-44fa-9fd9-fb649a787ee1,coordinating.school,available,5.57,30.18,medium,low,12,dynadot,,,30/09/2026 07:45
+d1a51a0e-f0aa-4014-91b2-e1649c6ed82f,cowles.school,available,28.2,28.2,medium,low,6,cloudflare,,,30/09/2026 05:23
 8917313c-05f3-45f2-9e5d-b7f1152662a3,admitted.school,available,36.49,36.49,medium,low,8,namesilo,,,27/09/2026 22:14
 36d08b2e-f72c-4aeb-9d18-04f64dfb5e2d,pseud.school,available,36.49,36.49,medium,low,5,namesilo,,,09/09/2026 05:04
 6a669cb7-827f-4993-88e5-70e33293c46a,surrendered.school,available,29.18,29.18,low,low,11,spaceship,,,29/09/2026 05:38
-23a47d58-5f74-455c-bc4a-66f531d39a3f,compel.school,available,36.49,36.49,high,low,6,namesilo,,,03/09/2026 23:39
-f9d8bf75-25b3-4366-842c-e3c1870c99c7,affectionate.school,available,9.99,,high,low,12,name.com,,,
-2743134b-f05e-491e-a7ac-a502b42ad096,tbd.school,premium,69.3,138.6,high,low,3,namecheap,,,
+23a47d58-5f74-455c-bc4a-66f531d39a3f,compel.school,available,36.49,36.49,medium,low,6,namesilo,,,03/09/2026 23:39
+f9d8bf75-25b3-4366-842c-e3c1870c99c7,affectionate.school,available,55.99,55.99,high,low,12,godaddy,,,01/10/2026 00:35
+2743134b-f05e-491e-a7ac-a502b42ad096,tbd.school,premium,108.9,108.9,high,low,3,dynadot,,,01/10/2026 00:27
 d4693f84-ba8f-4b7d-8d36-3275b1e8c8c4,lime.school,available,36.49,36.49,high,low,4,namesilo,,,23/09/2026 20:42
 5f4b852e-d876-4e22-930c-4afb5465aebe,basket.school,available,36.49,36.49,high,low,6,namesilo,,,29/09/2026 01:26
 078574f9-3277-4891-b9db-8405e27198fd,yard.school,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",11/09/2025 15:15,11/09/2027 15:15,26/09/2026 10:15
 4778bcb3-3303-444e-8fc6-2cd26651c408,spartan.school,resell,,,high,low,7,"Sav.com, LLC - 44",15/09/2025 15:15,15/09/2027 15:15,26/09/2026 09:11
+378e9921-3ecd-4800-9759-2301650fd2eb,saf.school,premium,17.28,34.36,high,low,3,spaceship,,,30/09/2026 12:43
 5c8ed1b3-4bb4-4757-ad71-70703de794cb,dingy.school,available,9.99,46.99,medium,low,5,name.com,,,09/08/2026 09:20
 b402d91d-8586-40a2-931e-91349897645d,spheric.school,available,9.99,46.99,medium,low,7,name.com,,,08/08/2026 10:16
 29be7d5d-2ab0-4ab0-8f5a-db1578d36c85,colly.school,available,9.99,46.99,medium,low,5,name.com,,,14/08/2026 09:17
@@ -316,9 +340,10 @@ b402d91d-8586-40a2-931e-91349897645d,spheric.school,available,9.99,46.99,medium,
 9e0d00bc-ad91-45c0-8067-2a2ebdc58e64,explained.school,available,36.49,36.49,medium,low,9,namesilo,,,17/09/2026 15:48
 d8ea25e9-2d33-43e4-bea6-b8d58efec4c3,penetrating.school,available,36.49,36.49,medium,low,11,namesilo,,,29/09/2026 14:35
 88e8077b-072f-443f-8d16-d76924c1dd5a,emmy.school,available,5.57,30.18,high,low,4,dynadot,,,29/09/2026 06:46
-f81c8585-f27f-4f7d-993c-2a57bf608ff0,noyes.school,available,36.49,36.49,high,low,5,namesilo,,,18/09/2026 06:42
+f81c8585-f27f-4f7d-993c-2a57bf608ff0,noyes.school,available,36.49,36.49,medium,low,5,namesilo,,,18/09/2026 06:42
+b8176694-0f26-4e13-9c24-bd8806ae7038,soledad.school,available,38.48,49.98,medium,low,7,namecheap,,,30/09/2026 18:46
 a33daa5e-7aa6-4050-ae1e-73d28c2fabaf,unitary.school,available,36.49,36.49,high,low,7,namesilo,,,12/09/2026 13:58
-f547a184-4b56-401e-9a5d-5ef2fb4ec513,they.school,available,9.99,,high,low,4,name.com,,,
+f547a184-4b56-401e-9a5d-5ef2fb4ec513,they.school,available,5.66,29.35,high,low,4,porkbun,,,30/09/2026 22:20
 be354506-bbaf-4add-b6ac-8a5ecd0bc27a,norte.school,available,36.49,36.49,high,low,5,namesilo,,,27/09/2026 07:02
 0f8d92f8-86b4-4309-a804-bc3fca202704,slouchy.school,available,36.49,36.49,medium,low,7,namesilo,,,19/09/2026 04:23
 b1e6b09d-c79e-40c9-8536-28eb8c2922d0,tanker.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 07:46
@@ -327,9 +352,10 @@ cecf00a9-4c93-4f34-8aba-c42da3ad65d5,pain.school,resell,,,high,low,4,"Xiamen Chi
 230c0731-410d-4b50-a407-9f54098181b6,newsgroup.school,available,9.99,,medium,low,9,name.com,,,
 267f9939-825b-4cc7-8c93-564ee4cd3b59,jib.school,premium,64.35,128.7,high,low,3,namecheap,,,21/09/2026 22:10
 944716bc-f8d3-4512-bd28-39c9a04f3378,wondered.school,available,9.99,,high,low,8,name.com,,,
+a5562b44-fd7a-41e0-807e-d3b71f3c1f44,huts.school,available,29.18,29.18,medium,low,4,spaceship,,,30/09/2026 15:30
 52d058b8-c217-44b6-9737-a3ffc9a36ab2,bilges.school,available,36.49,36.49,medium,low,6,namesilo,,,23/09/2026 15:54
 fd5055ea-bf88-49b2-b42f-ade267987326,comatose.school,available,9.99,46.99,medium,low,8,name.com,,,12/08/2026 18:25
-f6de8e12-438c-42fb-a822-2b1841de9147,benedick.school,available,36.49,36.49,high,low,8,namesilo,,,23/09/2026 07:51
+f6de8e12-438c-42fb-a822-2b1841de9147,benedick.school,available,36.49,36.49,medium,low,8,namesilo,,,23/09/2026 07:51
 e4c91412-5ba3-4f7a-adb2-2af8ae239ed4,commonly.school,available,38.48,49.98,medium,low,8,namecheap,,,28/09/2026 14:12
 4f010975-a743-48ff-ad90-3962e6056d80,isomeric.school,available,9.99,46.99,medium,low,8,name.com,,,22/08/2026 11:08
 886e3c14-72cc-4149-9beb-b567e2dc07ee,tubal.school,available,38.48,49.98,medium,low,5,namecheap,,,11/09/2026 20:53
@@ -341,7 +367,7 @@ ff7eae70-58d9-445d-8216-f4d2617b9aca,asin.school,available,36.49,36.49,high,low,
 7bc82e69-1144-40a9-a294-e0e239ef8b51,stupidly.school,available,9.99,46.99,medium,low,8,name.com,,,14/09/2026 13:43
 bedacdad-9de2-4ba5-9617-c7a34302da72,wiggler.school,available,36.49,36.49,medium,low,7,namesilo,,,19/09/2026 06:38
 e6532a61-9a2f-4033-9e81-97bc6b1c7ca3,eery.school,available,9.99,46.99,medium,low,4,name.com,,,15/08/2026 12:45
-3ccbc481-ae34-443e-8cf0-e7bfd8a2e86d,nrc.school,premium,51.43,102.67,high,low,3,spaceship,,,28/09/2026 10:37
+3ccbc481-ae34-443e-8cf0-e7bfd8a2e86d,nrc.school,premium,51.43,102.67,medium,low,3,spaceship,,,28/09/2026 10:37
 c306110a-e8d2-4fff-b75c-7fb5df58a449,lies.school,available,9.99,,medium,low,4,name.com,,,
 a60296ba-a3a4-4067-8ab6-74cd313eb7a9,unassuming.school,available,28.2,28.2,high,low,10,cloudflare,,,27/09/2026 13:26
 26453ec9-46a6-4cbf-b370-6ab2fe57bfe1,bema.school,available,38.48,49.98,high,low,4,namecheap,,,23/09/2026 07:15
@@ -349,11 +375,13 @@ a60296ba-a3a4-4067-8ab6-74cd313eb7a9,unassuming.school,available,28.2,28.2,high,
 34a2cbf1-f994-4531-bc15-e9cc39bd6630,deeds.school,available,29.18,29.18,high,low,5,spaceship,,,27/09/2026 12:56
 24331869-fb4e-49e1-aade-d02332e4429a,lao.school,premium,21.45,42.9,high,low,3,namecheap,,,22/08/2026 19:34
 eaa64651-45f0-4e8b-9931-e40833174cae,acne.school,available,28.2,28.2,medium,low,4,cloudflare,,,28/09/2026 17:51
-37abdf8c-745d-4b8f-868d-6b6a4bc6bf4e,dinky.school,available,9.99,46.99,high,low,5,name.com,,,14/08/2026 08:14
+37abdf8c-745d-4b8f-868d-6b6a4bc6bf4e,dinky.school,available,9.99,46.99,medium,low,5,name.com,,,14/08/2026 08:14
 4a228de0-2e35-47b9-b848-62a0e302a1d0,bluestem.school,available,36.49,36.49,medium,low,8,namesilo,,,19/09/2026 04:58
-c37af7b5-28d1-459b-9bdd-fc7a293cfa69,whose.school,available,9.99,,high,low,5,name.com,,,
+d7e60ecf-ac32-4cae-bd99-d5db83a2ca94,goldwyn.school,available,36.49,36.49,medium,low,7,namesilo,,,30/09/2026 17:29
+c37af7b5-28d1-459b-9bdd-fc7a293cfa69,whose.school,available,29.18,29.18,high,low,5,spaceship,,,30/09/2026 22:25
 ed2cb3b0-8e82-43ef-a8dc-79176aad8000,wilmington.school,available,38.48,49.98,high,low,10,namecheap,,,25/09/2026 11:01
 c2f7ca68-9b24-4e2e-8e1e-d76473e3ebcc,grandiose.school,available,9.99,46.99,high,low,9,name.com,,,20/08/2026 17:58
+68a45df6-45ea-43d3-887b-eea6f484d1e3,oblivious.school,available,29.18,29.18,medium,low,9,spaceship,,,01/10/2026 04:58
 ab0c9930-1b8d-4b5a-9c0d-531eac71a32b,cloaks.school,available,36.49,36.49,medium,low,6,namesilo,,,17/09/2026 14:28
 0afd35af-70df-4e0b-9866-94b82879eefe,advantage.school,available,29.18,29.18,high,low,9,spaceship,,,28/09/2026 18:56
 258784aa-2ba4-4ac8-8944-8bf2548a7db2,hot.school,premium,118.8,118.8,high,medium,3,namesilo,,,19/09/2026 15:25
@@ -368,15 +396,15 @@ a1485c71-dc91-4ee9-bf81-3bfe8832f86d,adder.school,available,38.48,49.98,medium,l
 85778756-90be-494f-a250-adef2c747d05,balloons.school,available,28.2,28.2,medium,low,8,cloudflare,,,28/09/2026 18:12
 f9b63c0a-556d-48a9-b1bf-20a5906056e6,biogeny.school,available,38.48,49.98,medium,low,7,namecheap,,,23/09/2026 18:05
 569dd889-2f55-4f5c-8c7a-932432be5430,brandt.school,available,28.2,28.2,high,low,6,cloudflare,,,27/09/2026 11:47
-6e329f33-c61f-4e02-bd21-496d1ff5fc09,freaking.school,available,9.99,,medium,low,8,name.com,,,
+6e329f33-c61f-4e02-bd21-496d1ff5fc09,freaking.school,available,29.18,29.18,medium,low,8,spaceship,,,01/10/2026 05:49
 5a1b1be8-fc0e-447e-ae3d-00ea0232c748,analogy.school,available,5.66,29.35,high,low,7,porkbun,,,28/09/2026 21:11
-8f89948a-8da6-4f48-ae5e-ff89a481ee98,twine.school,available,28.2,28.2,high,low,5,cloudflare,,,30/09/2026 01:53
-c4a320fc-4dee-4b44-b20c-8416321844a4,adobo.school,available,38.48,49.98,high,low,5,namecheap,,,17/09/2026 09:29
+8f89948a-8da6-4f48-ae5e-ff89a481ee98,twine.school,available,28.2,28.2,medium,low,5,cloudflare,,,30/09/2026 01:53
+c4a320fc-4dee-4b44-b20c-8416321844a4,adobo.school,available,38.48,49.98,medium,low,5,namecheap,,,17/09/2026 09:29
 d3421ed2-1694-4cdb-900c-1c72fce2d81e,taylor.school,resell,,,high,low,6,"Sav.com, LLC - 11",22/01/2026 15:15,22/01/2027 15:15,29/09/2026 13:29
 d703a345-6c97-4b5c-92ac-3ef1ce72f2f1,toetoe.school,available,36.49,36.49,medium,low,6,namesilo,,,20/09/2026 12:22
 b4c9b8a5-9f4a-42ff-926d-b4d821368691,squealer.school,available,36.49,36.49,medium,low,8,namesilo,,,23/09/2026 11:32
 d3506e62-defc-4045-b1ea-98d3cf72a456,your.school,resell,,,high,medium,4,Porkbun LLC,31/05/2015 16:00,31/05/2027 16:00,26/09/2026 10:16
-1a003d25-b30e-4f62-bb3f-2f4f0917080c,harare.school,available,9.99,46.99,high,low,6,name.com,,,24/09/2026 12:36
+1a003d25-b30e-4f62-bb3f-2f4f0917080c,harare.school,available,9.99,46.99,medium,low,6,name.com,,,24/09/2026 12:36
 950e71f0-0eb9-4104-bc69-a32e59ab14ed,advisement.school,available,36.49,36.49,high,low,10,namesilo,,,17/09/2026 11:32
 ba2fa5af-3a94-4251-835b-3f11adc26f2c,macleish.school,available,36.49,36.49,medium,low,8,namesilo,,,20/09/2026 02:03
 819f7bb0-919a-4584-b21e-e011a0da3cc8,cbc.school,premium,,,high,low,3,PDR Ltd. d/b/a PublicDomainRegistry.com,04/12/2022 07:25,04/12/2027 07:25,28/09/2026 00:59
@@ -392,19 +420,22 @@ eaa3fee2-142a-4ed1-816d-e906ed9f6e2c,worldling.school,available,36.49,36.49,medi
 6ff18eb2-8ab2-4a3c-9821-ca77dd5ee2c7,charivari.school,available,36.49,36.49,medium,low,9,namesilo,,,23/09/2026 06:08
 873982aa-ae26-4700-aa69-27dbdebaee56,brandenburg.school,available,29.18,29.18,high,low,11,spaceship,,,27/09/2026 16:50
 b2ef8e1b-ed99-44e9-9a0b-cbd27e206f2b,proximal.school,available,36.49,36.49,high,low,8,namesilo,,,09/09/2026 04:44
+56f8df9e-8bd4-41ac-b689-1e753e96c4fa,galley.school,available,55.99,55.99,medium,low,6,godaddy,,,01/10/2026 01:14
 33674b71-9817-4f31-b962-2e5026bf2737,lacrimal.school,available,9.99,46.99,medium,low,8,name.com,,,22/08/2026 17:57
 e8f40294-7e46-4e82-95b0-b9a855953101,foursome.school,available,9.99,46.99,high,low,8,name.com,,,
 200d9702-6c56-40f6-bbbb-d1a7a4227a37,terracotta.school,available,36.49,36.49,high,low,11,namesilo,,,17/09/2026 09:12
 a58afde2-d27b-4e3f-8658-1bbf2efbe537,temporal.school,available,36.49,36.49,high,low,8,namesilo,,,11/09/2026 11:00
+a68802b2-ae35-44e5-92e0-22db91a19c13,motorcycles.school,available,36.49,36.49,medium,low,11,namesilo,,,30/09/2026 06:06
 5d79a5c8-39db-482a-a857-f94117c51875,avionics.school,available,36.49,36.49,high,low,8,namesilo,,,21/09/2026 09:35
 00f9ef56-e4c0-470f-8082-256bc6afbabd,cognate.school,available,9.99,46.99,high,low,7,name.com,,,10/08/2026 15:14
 8e66d3c4-4281-472a-b648-7fd60ce639f4,landings.school,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 00:42
+876c32e4-ced2-435b-8f3b-0cd9762fe109,wilma.school,available,36.49,36.49,high,low,5,namesilo,,,30/09/2026 03:44
 1a6440a2-e5c1-4bee-8b78-aae5471e13f6,hendrick.school,available,36.49,36.49,medium,low,8,namesilo,,,29/09/2026 10:54
 87edfe8d-cd96-4b78-80e9-1a4e8594df87,stairway.school,available,36.49,36.49,high,low,8,namesilo,,,29/09/2026 08:07
 7eb89ebd-db39-4bd1-b257-681cbfb66b2f,sketchy.school,available,36.49,36.49,high,low,7,namesilo,,,10/09/2026 09:18
 a1d92ab2-3544-4632-b0c9-0ca007296003,apostasy.school,available,38.48,49.98,medium,low,8,namecheap,,,19/09/2026 19:16
 586083dc-8cd8-49fb-86ae-a1c24b9a6c6c,unscathed.school,available,9.99,46.99,high,low,9,name.com,,,12/09/2026 12:03
-71181f38-b4fc-4bad-8455-fae8885aa40d,rounds.school,available,36.49,36.49,high,low,6,namesilo,,,27/09/2026 02:23
+71181f38-b4fc-4bad-8455-fae8885aa40d,rounds.school,available,36.49,36.49,medium,low,6,namesilo,,,27/09/2026 02:23
 9d9010a4-08af-4042-aedb-9e7c6f4f435b,siberia.school,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 20:20
 af91a8db-0e70-477b-896d-cd80e78df81c,instore.school,available,9.99,,high,low,8,name.com,,,
 0ea59748-80a1-4c60-bd51-d74219fee87f,decidedly.school,available,36.49,36.49,medium,low,9,namesilo,,,14/09/2026 02:04
@@ -417,7 +448,9 @@ a9d98dec-328b-4713-b4aa-d0fe477cb79a,sled.school,available,38.48,49.98,high,low,
 9a0041f1-a72b-4a1c-9da2-d3431487b3e6,offering.school,available,36.49,36.49,high,low,8,namesilo,,,25/09/2026 09:37
 7db618a3-eb6b-48e2-94bd-9457e2b64a17,dicks.school,available,9.99,,medium,low,5,name.com,,,
 a1b5a51d-d9b8-41e9-a7f0-1356c75ac600,healer.school,available,36.49,36.49,high,low,6,namesilo,,,30/09/2026 01:51
+09515ec1-f479-4e22-b2a5-8a74e7f536e8,witte.school,available,36.49,36.49,medium,low,5,namesilo,,,30/09/2026 12:35
 4f9a861d-132c-4348-8ee3-52a144c541a5,clammy.school,available,9.99,46.99,medium,low,6,name.com,,,12/08/2026 09:23
+e64e7790-17cb-43e7-b032-43c5a5786aac,projections.school,available,38.48,49.98,medium,low,11,namecheap,,,30/09/2026 06:43
 91666883-d676-4709-91c7-4ddfdaa0bfa0,forceful.school,available,9.99,46.99,high,low,8,name.com,,,18/08/2026 11:13
 b6538dc6-811e-487a-a4ee-c3814b9f28f6,severely.school,available,36.49,36.49,medium,low,8,namesilo,,,28/09/2026 13:15
 36544887-d31f-44d2-a5be-0e8a5d75ace1,festal.school,available,9.99,46.99,medium,low,6,name.com,,,18/08/2026 02:13
@@ -436,8 +469,10 @@ b971fd44-2219-4fcd-ad48-c0a0daa5efac,racine.school,available,28.2,28.2,high,low,
 32e06940-60e4-42cf-87db-4bd1dc350aad,bighearted.school,available,9.99,46.99,high,low,10,name.com,,,09/08/2026 20:48
 7bae1e69-b80d-4692-b523-5e78098f6dfc,detail.school,available,36.49,36.49,high,low,6,namesilo,,,29/09/2026 14:10
 091342db-c13d-41f1-8e3c-e42c5403900b,odious.school,available,9.99,46.99,medium,low,6,name.com,,,
+ea7c2c3e-cb60-4155-91bf-3432c515a3da,kcal.school,available,36.49,36.49,high,low,4,namesilo,,,30/09/2026 12:30
 cb0514f0-fe10-4c7e-844b-5cd2d1be90ae,latter.school,available,36.49,36.49,high,low,6,namesilo,,,25/09/2026 13:08
 14d04e3b-d534-4724-9a5e-e392bb09e6b2,outwear.school,available,9.99,46.99,medium,low,7,name.com,,,13/09/2026 09:15
+af08681f-a0e1-45a2-af67-9a21e6aa27ce,shafts.school,available,29.18,29.18,medium,low,6,spaceship,,,30/09/2026 15:34
 8d05c908-5bb1-4935-975a-c008d2828a54,acromion.school,available,36.49,36.49,medium,low,8,namesilo,,,17/09/2026 03:49
 2a35e273-73d9-4889-bdd6-087d20f11119,mistakes.school,available,36.49,36.49,medium,low,8,namesilo,,,16/09/2026 10:20
 a5cf8c5b-5c91-41eb-8315-b44f14192f04,thallium.school,available,36.49,36.49,medium,low,8,namesilo,,,20/09/2026 23:51
@@ -446,8 +481,12 @@ a5cf8c5b-5c91-41eb-8315-b44f14192f04,thallium.school,available,36.49,36.49,mediu
 e1b8b177-d9e0-41e3-9cb9-14083d90eb8e,jose.school,available,28.2,28.2,medium,low,4,cloudflare,,,28/09/2026 11:51
 aa7fad67-6259-403b-8f2e-2d36b5cca0dc,names.school,available,38.48,49.98,high,low,5,namecheap,,,25/09/2026 09:32
 e8405c1b-147e-4ed6-8143-81fb62eba026,ariled.school,available,9.99,46.99,medium,low,6,name.com,,,06/08/2026 19:09
+885d4720-3411-4673-80df-172b74cf4027,rtc.school,premium,51.43,102.67,high,low,3,spaceship,,,30/09/2026 12:40
 b6381fcd-f444-4639-ab7a-470fc1579a5e,sweltering.school,available,36.49,36.49,medium,low,10,namesilo,,,11/09/2026 05:40
 36121f69-ab56-43d0-839c-2bfda90a1215,prostrate.school,available,36.49,36.49,high,low,9,namesilo,,,09/09/2026 03:57
+56d3c5c8-4d58-469b-ae39-954468ea9473,simulator.school,available,36.49,36.49,high,low,9,namesilo,,,30/09/2026 11:02
+7ecf4fee-b796-4ee1-9665-4b3d13cdf1dd,discoveries.school,available,36.49,36.49,medium,low,11,namesilo,,,30/09/2026 06:23
+c4d80e62-0e6c-4193-acf3-91e452461919,novosibirsk.school,premium,17.28,34.36,medium,low,11,spaceship,,,30/09/2026 05:10
 fb2e1185-b0cb-41f8-8536-61cda13ba597,forgot.school,available,29.18,29.18,medium,low,6,spaceship,,,27/09/2026 21:47
 fbac2181-3af2-435e-85e3-9ccb0b598639,argot.school,available,36.49,36.49,medium,low,5,namesilo,,,13/09/2026 04:14
 4782fcf6-2cba-42f2-8ea2-00aeaf9d864c,adiposity.school,available,36.49,36.49,medium,low,9,namesilo,,,17/09/2026 08:19
@@ -456,9 +495,10 @@ cb4d22f5-8e09-425e-96d9-8cdcf92ab45e,sensed.school,available,36.49,36.49,high,lo
 333a9b3a-18b3-41a0-ae30-1cd4718d2454,unionized.school,available,38.48,49.98,medium,low,9,namecheap,,,03/09/2026 19:29
 f7a4f1d0-c83c-4d74-b98d-a2a108cf4d9f,embracing.school,available,38.48,49.98,high,low,9,namecheap,,,29/09/2026 18:00
 4e1460fb-ede4-4f63-8964-80f317dd9e78,ventral.school,available,9.99,46.99,high,low,7,name.com,,,
-916b4e74-4955-4ead-98a8-47df33292730,outer.school,available,9.99,,high,low,5,name.com,,,
+916b4e74-4955-4ead-98a8-47df33292730,outer.school,available,28.2,28.2,high,low,5,cloudflare,,,01/10/2026 03:47
 63e4f379-7d54-4e71-a0e3-5efcd04b1eec,reliant.school,available,36.49,36.49,high,low,7,namesilo,,,09/09/2026 13:35
 ae19b495-e9f3-4a3f-bef1-5e13000d6f3d,sticker.school,available,38.48,49.98,high,low,7,namecheap,,,30/09/2026 01:12
+3c9f2402-9370-4077-a354-0657fbcf7a74,homeowner.school,available,29.18,29.18,high,low,9,spaceship,,,30/09/2026 10:09
 33a2342a-3ce7-47b0-9cb9-0d5c5d5bd857,plays.school,available,9.99,46.99,medium,low,5,name.com,,,18/09/2026 05:50
 3311e4e5-a9bf-4fb5-89e3-4b7269166978,produces.school,available,36.49,36.49,medium,low,8,namesilo,,,17/09/2026 14:14
 47189219-3802-4052-8a10-faec7feb74e4,hazardous.school,available,9.99,46.99,medium,low,9,name.com,,,21/08/2026 01:42
@@ -466,18 +506,21 @@ d85a3d9c-7fac-4b62-9646-bcab9b8b6800,allemande.school,available,36.49,36.49,medi
 b84a1ee1-d696-4d5c-ac37-7875e681483c,end.school,premium,64.35,128.7,high,low,3,namecheap,,,19/09/2026 15:33
 7eb068b5-18b0-43ef-90a7-4d6cddf8474f,asks.school,available,36.49,36.49,medium,low,4,namesilo,,,25/09/2026 17:36
 fd55e58a-b584-4df3-bd3d-94d8def611eb,credal.school,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 05:52
+62c53852-782d-4857-9396-3a8b703eeec9,rapist.school,available,36.49,36.49,high,low,6,namesilo,,,30/09/2026 10:57
 a75c7dc3-d892-44fe-8b4b-b41434dc828e,cod.school,premium,118.8,118.8,high,low,3,namesilo,,,23/09/2026 14:56
 3c8defbc-b6f0-41ec-964e-bc6122560193,yearling.school,available,36.49,36.49,high,low,8,namesilo,,,22/09/2026 00:38
 17a949d6-6862-4e8b-9d64-4a627eadf8c0,forcing.school,available,36.49,36.49,medium,low,7,namesilo,,,28/09/2026 12:56
+c410e71e-40a1-4d38-b9e2-dfa6ca37a457,buchan.school,available,36.49,36.49,medium,low,6,namesilo,,,30/09/2026 13:55
 dc0c0a20-1470-4fb4-a477-0ad66bac45f2,bezant.school,available,36.49,36.49,low,low,6,namesilo,,,23/09/2026 12:11
 53f1c473-c42d-4591-a64f-16ab6b59d990,muddled.school,available,36.49,36.49,medium,low,7,namesilo,,,03/09/2026 10:22
-583d380d-9645-4cb1-8ff9-039a9718db34,toxic.school,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 09:26
+583d380d-9645-4cb1-8ff9-039a9718db34,toxic.school,available,29.18,29.18,medium,low,5,spaceship,,,28/09/2026 09:26
 84c17279-215a-4157-a885-063cf4c94cf4,flabby.school,available,9.99,46.99,medium,low,6,name.com,,,18/08/2026 06:05
-3168dc93-0411-4617-91b3-7d18d785c1cb,thief.school,available,9.99,,high,low,5,name.com,,,
-2c79ccaa-3382-4cad-a44b-43f941efb924,nausea.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 13:32
+3168dc93-0411-4617-91b3-7d18d785c1cb,thief.school,available,36.49,36.49,high,low,5,namesilo,,,30/09/2026 11:55
+2c79ccaa-3382-4cad-a44b-43f941efb924,nausea.school,available,29.18,29.18,medium,low,6,spaceship,,,29/09/2026 13:32
 84f2af18-5601-4f76-b522-6dfcb6ddedbc,jug.school,premium,118.8,118.8,high,low,3,namesilo,,,29/09/2026 12:28
 8836b4d9-ad72-4ad3-9155-48704db846ce,approached.school,available,36.49,36.49,medium,low,10,namesilo,,,17/09/2026 16:13
 3409cf3f-6b4a-4dee-9e04-380851eaeb67,pairs.school,available,36.49,36.49,medium,low,5,namesilo,,,16/09/2026 14:58
+ccb6b593-999c-4fa9-9d98-7818919e8a69,emulate.school,available,5.57,30.18,high,low,7,dynadot,,,01/10/2026 04:12
 9647382d-323c-4ff8-a473-b6c39b966358,terror.school,available,5.57,30.18,high,low,6,dynadot,,,28/09/2026 19:24
 dd1873c2-14b2-4737-894a-7b48170d4598,hannukah.school,available,29.18,29.18,medium,low,8,spaceship,,,29/09/2026 08:07
 67e9a867-82f1-42d3-9e54-5ac5c4ec17c4,alongside.school,available,38.48,49.98,high,low,9,namecheap,,,13/09/2026 19:12
@@ -501,7 +544,7 @@ ab39ad26-8f85-473d-8ecb-b8e3208c852d,kitts.school,available,36.49,36.49,medium,l
 1fddd657-f4a2-40ae-8307-08e6ed1ed3a8,burnished.school,available,9.99,46.99,medium,low,9,name.com,,,11/08/2026 10:59
 77be21b2-996c-4b22-afbd-09d57293a874,akaba.school,available,36.49,36.49,medium,low,5,namesilo,,,17/09/2026 23:49
 43b550a3-6e03-4c3c-9b08-27aecf4bf4d0,faster.school,available,38.48,49.98,high,low,6,namecheap,,,14/09/2026 17:46
-cc0da7f2-8384-44e3-a900-14cdaf2c5fb3,mannerism.school,available,36.49,36.49,high,low,9,namesilo,,,17/09/2026 14:14
+cc0da7f2-8384-44e3-a900-14cdaf2c5fb3,mannerism.school,available,36.49,36.49,medium,low,9,namesilo,,,17/09/2026 14:14
 d71e125c-b61a-48e7-acef-07b2faee2d2b,oracular.school,available,36.49,36.49,medium,low,8,namesilo,,,04/09/2026 17:12
 b80cfd2f-36f9-4f85-89bf-72fd3027c70d,subtly.school,available,36.49,36.49,medium,low,6,namesilo,,,16/09/2026 07:33
 0c5beb7b-f7cb-4100-b232-da1660157868,putnam.school,available,36.49,36.49,high,low,6,namesilo,,,25/09/2026 16:07
@@ -509,14 +552,15 @@ b80cfd2f-36f9-4f85-89bf-72fd3027c70d,subtly.school,available,36.49,36.49,medium,
 79f44a49-774a-4ca7-af3c-587d424fb055,imprudent.school,available,9.99,46.99,medium,low,9,name.com,,,21/08/2026 23:23
 78720b81-35f9-4600-8476-12baabde04f0,moldy.school,available,38.48,49.98,medium,low,5,namecheap,,,25/09/2026 21:25
 8ab9d0ce-16c7-4af0-ade7-053e56a20694,circuitous.school,available,9.99,46.99,medium,low,10,name.com,,,12/08/2026 08:18
+76fa6d21-f401-4b63-a1ef-cc05651bdb5f,elba.school,available,29.18,29.18,medium,low,4,spaceship,,,30/09/2026 13:35
 54f7d905-37c3-46dc-bea6-eb6bed0ae454,unleavened.school,available,36.49,36.49,medium,low,10,namesilo,,,12/09/2026 14:46
 b45b0106-238a-4f8a-a55b-eb723e841535,bandstand.school,available,36.49,36.49,high,low,9,namesilo,,,22/09/2026 01:32
 d1580b9c-82e0-4495-827f-51a3e67b15c0,helping.school,available,38.48,49.98,high,low,7,namecheap,,,29/09/2026 22:38
 5aaf5c46-409f-4090-90f3-ed97edc534b6,unsightly.school,available,38.48,49.98,medium,low,9,namecheap,,,12/09/2026 19:53
 398904ec-e76d-4aec-8bee-81f168ae3606,capsulated.school,available,9.99,46.99,medium,low,10,name.com,,,11/08/2026 18:12
-0c458f96-c86e-41e9-ad4f-fb135f805dde,devoutly.school,available,36.49,36.49,high,low,8,namesilo,,,14/09/2026 12:30
+0c458f96-c86e-41e9-ad4f-fb135f805dde,devoutly.school,available,36.49,36.49,medium,low,8,namesilo,,,14/09/2026 12:30
 f55ae2b0-8e6c-4450-a0cd-1fbf559c808a,norwalk.school,available,29.18,29.18,medium,low,7,spaceship,,,28/09/2026 12:08
-3a3229ff-ddac-4486-a8a8-9e17e0369d89,custodial.school,available,9.99,46.99,high,low,9,name.com,,,13/08/2026 12:19
+3a3229ff-ddac-4486-a8a8-9e17e0369d89,custodial.school,available,9.99,46.99,medium,low,9,name.com,,,13/08/2026 12:19
 bc3f0587-cd14-4fd6-8d61-3be6a231fe9d,cary.school,available,36.49,36.49,high,low,4,namesilo,,,25/09/2026 12:59
 3afea29d-4c10-4425-aa43-9b0650a368a3,ingrained.school,available,9.99,46.99,high,low,9,name.com,,,13/08/2026 22:49
 139f09d0-7f0a-46bc-b10a-b01a5296a3da,lendable.school,available,9.99,46.99,high,low,8,name.com,,,22/08/2026 23:35
@@ -527,9 +571,9 @@ ce454835-4e4b-4719-b413-c97903a73e09,throat.school,available,36.49,36.49,high,lo
 3ac92927-2bcc-42c9-a448-3344ddeb604d,graven.school,available,9.99,46.99,medium,low,6,name.com,,,17/08/2026 07:43
 3bddf053-13d7-4029-8ed4-c8aec2d0eac6,morbid.school,available,9.99,46.99,medium,low,6,name.com,,,14/08/2026 10:10
 6bdf677f-87a0-42dd-b01b-f5670cb9e207,dvds.school,available,28.2,28.2,medium,low,4,cloudflare,,,29/09/2026 00:04
+b660e598-1aa5-4e39-93c0-cc3324f4d908,heath.school,available,29.18,29.18,high,low,5,spaceship,,,30/09/2026 17:33
 5a0376c5-e815-4c61-aa27-a718eb73119c,unexplored.school,available,36.49,36.49,high,low,10,namesilo,,,12/09/2026 09:42
 d5a52070-fe15-4e0c-82e0-a0c275139af8,gained.school,available,36.49,36.49,low,low,6,namesilo,,,28/09/2026 08:35
-36d9b90b-4bc7-456b-b499-802b116a321d,temple.school,available,,,high,high,6,,,,
 54465d5e-e3ae-4bc5-aa93-257c8b66d739,midmost.school,available,9.99,46.99,medium,low,7,name.com,,,24/08/2026 22:29
 76608558-2a84-485b-94be-b0eaade567e3,coffeemakers.school,available,36.49,36.49,medium,low,12,namesilo,,,21/09/2026 01:27
 87f7d844-d800-4f3c-b3d8-4b78d8672e7e,prior.school,available,36.49,36.49,high,low,5,namesilo,,,27/09/2026 06:07
@@ -539,13 +583,15 @@ fabe5e9d-9928-4d25-a96f-7b168f47dae1,echo.school,resell,,,high,medium,4,"Xiamen 
 91f1d790-6ec3-4374-af48-451241e982fc,generated.school,available,36.49,36.49,medium,low,9,namesilo,,,19/09/2026 12:09
 4ee4b631-58de-46a0-a1d9-2759caa1c46a,magnetized.school,available,9.99,46.99,medium,low,10,name.com,,,24/08/2026 13:04
 c2a5a4a5-11d7-439c-9fe4-8da9fb6c78e4,zoophagous.school,available,9.99,46.99,low,low,10,name.com,,,18/08/2026 07:58
-7a144225-569d-4657-8374-5b88741f66ba,adviseable.school,available,9.99,,high,low,10,name.com,,,
+3da3d10a-853a-45ba-a5dc-91b56dae2568,monuments.school,available,29.18,29.18,medium,low,9,spaceship,,,30/09/2026 15:18
+7a144225-569d-4657-8374-5b88741f66ba,adviseable.school,available,9.99,,medium,low,10,name.com,,,
 055cbcc6-8746-42e3-bd3b-5945dd093792,layperson.school,available,36.49,36.49,medium,low,9,namesilo,,,10/09/2026 01:26
 bcb5cc9e-6710-4222-92bf-f0b32b5d67d7,ellipsoid.school,available,9.99,46.99,medium,low,9,name.com,,,16/08/2026 04:37
-b35e3d51-884a-4f93-b811-85b5a7f1d207,supporter.school,available,36.49,36.49,high,low,9,namesilo,,,22/09/2026 10:07
+b35e3d51-884a-4f93-b811-85b5a7f1d207,supporter.school,available,36.49,36.49,medium,low,9,namesilo,,,22/09/2026 10:07
 12754aae-beee-4a75-9747-2b247e270ff8,latvian.school,premium,64.35,128.7,high,low,7,namecheap,,,22/08/2026 20:47
 02f67299-bfe4-4462-b865-0fd4113ad8c0,summoned.school,available,9.99,,medium,low,8,name.com,,,
 4ef3cb42-fece-4815-9ac4-2d6b1101fc39,ascites.school,available,38.48,49.98,medium,low,7,namecheap,,,20/09/2026 13:17
+0b954f90-701b-4a93-a36c-10a24dd773ed,hpa.school,premium,36.3,36.3,medium,low,3,dynadot,,,30/09/2026 20:42
 1ae2105c-92ae-4866-b626-6b17a3253dd7,mara.school,available,5.66,29.35,high,low,4,porkbun,,,29/09/2026 12:05
 7b8ad443-3060-403a-b6f6-20d030a969ba,lawless.school,available,9.99,46.99,medium,low,7,name.com,,,
 537d3683-88df-4bf5-86d2-6d5df6330b83,betaine.school,available,36.49,36.49,medium,low,7,namesilo,,,23/09/2026 11:03
@@ -564,9 +610,12 @@ a3e13b0e-3b7a-4c7e-9a69-037a0ab30e22,leak.school,available,28.2,28.2,high,low,4,
 da21b684-534c-48bc-b99e-5c8db0511359,bipolar.school,available,36.49,36.49,high,low,7,namesilo,,,24/09/2026 08:27
 2a3b02a0-1d34-4d97-a664-ac61811bcdf1,traverse.school,available,9.99,46.99,high,low,8,name.com,,,13/08/2026 07:58
 34cef71d-b4e3-4341-bf0a-1363dc46e185,patently.school,available,38.48,49.98,medium,low,8,namecheap,,,08/09/2026 20:24
+c6f6f2f5-47dc-43bd-88b1-dfcf0231f276,lula.school,available,36.49,36.49,medium,low,4,namesilo,,,30/09/2026 04:54
 1605a1ba-f904-4fa4-8f47-b8a2623178e5,published.school,available,36.49,36.49,high,low,9,namesilo,,,27/09/2026 07:35
+89a63730-b85e-4383-905a-edc734f4a68c,validate.school,available,29.18,29.18,high,low,8,spaceship,,,30/09/2026 11:29
 e92a89cb-fc46-419a-bd52-621e2fec1e76,conquest.school,available,36.49,36.49,high,low,8,namesilo,,,29/09/2026 11:03
-82baf97b-2a3e-4c0e-ac19-f3006b929283,titular.school,available,36.49,36.49,high,low,7,namesilo,,,11/09/2026 16:32
+82baf97b-2a3e-4c0e-ac19-f3006b929283,titular.school,available,36.49,36.49,medium,low,7,namesilo,,,11/09/2026 16:32
+b58d5075-e03e-4bb2-80fe-f055bd45fe64,png.school,premium,51.43,102.67,high,low,3,spaceship,,,30/09/2026 11:41
 14a797fc-6b14-47f2-85ed-8b665a842124,screecher.school,available,36.49,36.49,medium,low,9,namesilo,,,22/09/2026 17:04
 91950621-b46d-42c9-a9af-abf9d3dec3a1,stoppers.school,available,36.49,36.49,medium,low,8,namesilo,,,20/09/2026 12:45
 5359772c-6927-463c-809f-224c40562b6d,confluent.school,available,9.99,46.99,high,low,9,name.com,,,12/08/2026 21:07
@@ -575,15 +624,17 @@ e92a89cb-fc46-419a-bd52-621e2fec1e76,conquest.school,available,36.49,36.49,high,
 a0b22165-9f34-4a87-a9d4-8cb0c39cdbc5,kenyon.school,available,28.2,28.2,medium,low,6,cloudflare,,,28/09/2026 04:16
 2007f4db-47af-4fd1-9ad5-e22850af7ee5,slept.school,available,9.99,,medium,low,5,name.com,,,
 0a6c5a26-b0d4-4fa1-9a40-9ff395ab8e9f,overdue.school,available,36.49,36.49,medium,low,7,namesilo,,,26/09/2026 03:28
+244fcb17-64dc-4c81-82ee-3150a3021806,moreton.school,available,29.18,29.18,medium,low,7,spaceship,,,30/09/2026 12:45
 543480d8-05ba-4a49-a35e-083181cce0f2,lord.school,available,36.49,36.49,high,low,4,namesilo,,,22/09/2026 01:47
 56c0c606-5482-44cf-ad12-ec5dbd416b02,former.school,available,38.48,49.98,high,low,6,namecheap,,,24/09/2026 21:24
 1e14b81e-c5f8-43a0-b112-4482be72eb3d,arizonian.school,available,36.49,36.49,medium,low,9,namesilo,,,20/09/2026 06:06
 b6ffe764-9cc5-4308-86af-f3c5c893dd65,refund.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 07:57
 48acecac-099b-4b4c-b505-30cbd9b64765,charged.school,available,9.99,46.99,high,low,7,name.com,,,12/08/2026 02:31
 46d80a34-36b3-4069-8c0a-a4b8983bc03b,avoidance.school,available,36.49,36.49,medium,low,9,namesilo,,,21/09/2026 09:49
+976acbea-671d-4c9e-9de6-a72b74e170c8,yalta.school,available,29.18,29.18,medium,low,5,spaceship,,,30/09/2026 19:08
 51053350-ad94-44c3-94dc-e87f1213c3bd,lifting.school,available,36.49,36.49,high,low,7,namesilo,,,28/09/2026 04:32
 ac0680f1-1fb4-43eb-a7c4-fe294f1b6af3,dryers.school,available,36.49,36.49,medium,low,6,namesilo,,,21/09/2026 07:40
-a7d5c010-ec5f-4a85-b582-f7a9be32f697,polo.school,available,,,high,high,4,,,,
+a7d5c010-ec5f-4a85-b582-f7a9be32f697,polo.school,premium,,,high,high,4,,,,30/09/2026 03:54
 fd1c89af-67de-4f4e-819f-0e6d81c55e3c,muhammadan.school,available,9.99,46.99,medium,low,10,name.com,,,25/08/2026 03:21
 75a72b1a-e2bb-407e-877d-e408bf4c7c65,drear.school,available,9.99,46.99,medium,low,5,name.com,,,14/08/2026 11:45
 f0d3ffd6-4c69-4a9a-9a64-3130e7011cb6,fissile.school,available,9.99,46.99,medium,low,7,name.com,,,18/08/2026 05:34
@@ -592,27 +643,32 @@ c8057a0a-edad-46ec-b993-fd925585f040,rapturous.school,available,9.99,46.99,high,
 716d5f81-7b69-4eeb-af35-7c7f1e247fbc,purchasing.school,available,36.49,36.49,high,low,10,namesilo,,,24/09/2026 11:23
 1d915672-fd48-458f-94eb-40cac022388e,acyclovir.school,available,36.49,36.49,medium,low,9,namesilo,,,17/09/2026 05:41
 b889a006-7320-43ed-a639-ef988ebb40fa,overshot.school,available,36.49,36.49,medium,low,8,namesilo,,,04/09/2026 21:51
+f321bbc1-e848-4eda-84c6-2cfeb2ddf13c,mapped.school,available,36.49,36.49,medium,low,6,namesilo,,,30/09/2026 14:20
 d1744ff7-25b7-46cb-ac35-9825c5989f5e,bumbling.school,available,9.99,46.99,medium,low,8,name.com,,,11/08/2026 09:34
 1ade3d92-cb45-4477-825e-06c2c0217a68,jawless.school,available,9.99,46.99,medium,low,7,name.com,,,22/08/2026 12:34
 bec5633c-4bc5-4e90-ad2e-391f7747cf83,rotting.school,available,28.2,28.2,medium,low,7,cloudflare,,,29/09/2026 20:13
-eb95017d-ff8b-4ca2-9d48-98383d33318f,separation.school,available,9.99,,high,low,10,name.com,,,
+eb95017d-ff8b-4ca2-9d48-98383d33318f,separation.school,available,36.49,36.49,high,low,10,namesilo,,,30/09/2026 10:56
 5b00e2a9-e1d0-49d3-93fb-b6ff5ac19da6,beech.school,available,36.49,36.49,high,low,5,namesilo,,,23/09/2026 00:02
+ca898d6a-5352-41e1-b379-5b3d07ca8fd5,garments.school,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 23:02
 80c9ede7-aa26-4c9e-a9fe-58ff9dfb3d2f,equation.school,available,28.2,28.2,high,low,8,cloudflare,,,28/09/2026 19:06
 4440939d-6c7f-462f-bfed-ac5767eb997d,batter.school,available,36.49,36.49,high,low,6,namesilo,,,22/09/2026 14:16
 80c452c2-f714-4ca5-9122-b107324345c4,jaffa.school,premium,17.28,34.36,high,low,5,spaceship,,,29/09/2026 13:12
 2bd639ff-72d4-468d-909f-4712f9de6787,vassal.school,available,9.99,46.99,medium,low,6,name.com,,,18/08/2026 03:02
+94bfd837-635c-4b37-bf9d-45f0669305b7,dipping.school,available,29.18,29.18,high,low,7,spaceship,,,30/09/2026 14:42
 07415977-44e5-420a-8a94-b86b60ce9ae6,cruising.school,available,36.49,36.49,high,low,8,namesilo,,,29/09/2026 05:15
 01757276-8a92-44b5-8cd3-2acd1cbfae20,destroys.school,available,29.18,29.18,low,low,8,spaceship,,,29/09/2026 05:36
-b8b40d40-be20-4c91-8036-379320cf1392,resign.school,available,36.49,36.49,high,low,6,namesilo,,,28/09/2026 11:09
-d3e4962c-72cc-47d9-8344-bc6264c2df9f,blest.school,available,9.99,46.99,high,low,5,name.com,,,10/08/2026 14:15
+5580860a-37a2-427a-9f0d-30d3a1973d28,noctuidae.school,available,29.18,29.18,medium,low,9,spaceship,,,30/09/2026 17:16
+b8b40d40-be20-4c91-8036-379320cf1392,resign.school,available,36.49,36.49,medium,low,6,namesilo,,,30/09/2026 06:20
+d3e4962c-72cc-47d9-8344-bc6264c2df9f,blest.school,available,9.99,46.99,medium,low,5,name.com,,,10/08/2026 14:15
 d39f3ee2-2f18-495a-a54e-285dc460f0df,nosed.school,available,38.48,49.98,medium,low,5,namecheap,,,03/09/2026 21:45
 1596b00b-db24-4251-9945-be66b1fca1d4,syrup.school,available,28.2,28.2,high,low,5,cloudflare,,,28/09/2026 06:44
 27905397-07e2-4ee4-96c4-7db7d82b13b6,shameless.school,available,36.49,36.49,medium,low,9,namesilo,,,10/09/2026 05:53
 bb022693-bf08-4b0e-8c22-b9b3353c9578,bagging.school,available,38.48,49.98,medium,low,7,namecheap,,,21/09/2026 18:06
+83360ffc-93a5-4a9e-927d-6636f140ad3a,flanders.school,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 09:38
 e1aef1be-d479-408a-9e17-6ec1ee0b8a98,resists.school,available,36.49,36.49,medium,low,7,namesilo,,,18/09/2026 10:58
 544785ff-d167-420f-aea2-f41488389ebc,coastwise.school,available,9.99,46.99,medium,low,9,name.com,,,12/08/2026 14:12
 6e59f310-65d5-4dbc-af3a-71513dce4cb9,accusation.school,available,5.57,30.18,medium,low,10,dynadot,,,28/09/2026 17:30
-032ac3a7-0d27-417b-a8f7-753122d0d1cb,annexe.school,available,36.49,36.49,high,low,6,namesilo,,,19/09/2026 10:24
+032ac3a7-0d27-417b-a8f7-753122d0d1cb,annexe.school,available,36.49,36.49,medium,low,6,namesilo,,,19/09/2026 10:24
 e817c014-e9cd-4ca6-bc91-69cd4fedbcef,gilding.school,available,9.99,46.99,high,low,7,name.com,,,18/08/2026 23:37
 64d03ae0-c9a4-4b8d-9715-532e50d6eefc,dickhead.school,available,9.99,46.99,medium,low,8,name.com,,,08/08/2026 23:34
 31ba9abf-4925-43cb-902d-c3d49f32aa6a,maven.school,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",27/02/2025 15:15,27/02/2027 15:15,26/09/2026 07:28
@@ -627,6 +683,7 @@ d39fc7c6-bba6-4387-9bd8-d7a16d8ee65f,banjul.school,available,36.49,36.49,medium,
 dacd7950-83b5-4d62-a344-771111ad23d3,cloudiness.school,available,38.48,49.98,medium,low,10,namecheap,,,04/09/2026 20:28
 92d2e2e5-9b80-49f3-834f-5b516b461b2f,invaders.school,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 00:36
 24cbf2d0-edb6-4dde-8e8d-e6fe8eb26512,practicing.school,available,9.99,,high,low,10,name.com,,,
+a8f355ef-3a65-4f7e-aaf7-1b17de9b6e81,mysteriously.school,available,36.49,36.49,medium,low,12,namesilo,,,30/09/2026 04:03
 99ae1855-60db-4070-ad7f-48643273e4fb,myalgic.school,available,36.49,36.49,medium,low,7,namesilo,,,03/09/2026 11:57
 e1675cc0-3c9e-4da6-bcd3-532886430633,pins.school,available,36.49,36.49,high,low,4,namesilo,,,18/09/2026 08:25
 5d96ab32-c732-4fd1-98e3-328bfab3a471,vinyl.school,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 20:35
@@ -634,15 +691,16 @@ c059bd25-af26-44af-be55-f8df8732e7b0,hydrous.school,available,9.99,46.99,medium,
 8978b0ef-c959-4690-9b37-ca7743a946e8,inspiring.school,available,36.49,36.49,high,low,9,namesilo,,,25/09/2026 09:50
 32b63ab2-b120-4644-a655-e1cde9b78b57,matai.school,available,38.48,49.98,medium,low,5,namecheap,,,24/09/2026 01:23
 76e9b383-5b25-4f4a-9a14-ea06af8431af,pluses.school,available,36.49,36.49,medium,low,6,namesilo,,,21/09/2026 02:09
+c4cd2ed2-6010-4b0b-a12b-bf2df52cae24,savages.school,available,36.49,36.49,low,low,7,namesilo,,,30/09/2026 06:49
 151c5196-230f-4d3e-addf-3047ae46a59e,corpulence.school,available,36.49,36.49,medium,low,10,namesilo,,,04/09/2026 22:00
 73e04ee8-a368-47b9-9db2-0ceaa663f98d,boyish.school,available,9.99,46.99,high,low,6,name.com,,,11/08/2026 00:04
-11100ee2-8856-44d3-b387-8a2eb20d8dd9,ragweed.school,available,38.48,49.98,high,low,7,namecheap,,,23/09/2026 08:50
+11100ee2-8856-44d3-b387-8a2eb20d8dd9,ragweed.school,available,38.48,49.98,medium,low,7,namecheap,,,23/09/2026 08:50
 f5eaa979-9955-47ef-925a-07c0a2f5f63e,razz.school,available,36.49,36.49,medium,low,4,namesilo,,,21/09/2026 19:47
 56a386b4-2a0d-4aa7-ac25-2ea1e092008f,niffy.school,available,36.49,36.49,low,low,5,namesilo,,,03/09/2026 17:10
 62e0f5da-fe69-49f5-8ce7-ca41260bfdd0,calendric.school,available,9.99,46.99,medium,low,9,name.com,,,11/08/2026 14:14
 4674ddf5-5705-4af1-abb8-7835a1d9a010,babel.school,available,36.49,36.49,high,low,5,namesilo,,,21/09/2026 12:37
 d18efca0-793d-492d-9405-aaaa17abda2b,unfailing.school,available,9.99,46.99,high,low,9,name.com,,,18/08/2026 10:39
-517438d6-edf9-4a30-86e3-58935eeeb166,leased.school,available,9.99,46.99,high,low,6,name.com,,,12/08/2026 02:50
+517438d6-edf9-4a30-86e3-58935eeeb166,leased.school,available,9.99,46.99,medium,low,6,name.com,,,12/08/2026 02:50
 ae941bab-abfa-479b-b77d-274739e176c3,ephemeral.school,available,9.99,46.99,high,low,9,name.com,,,17/08/2026 10:17
 d57ae725-d582-42a6-b998-62ebe6b86b51,landscaping.school,premium,118.8,118.8,high,low,11,namesilo,,,28/09/2026 06:56
 b17bb20d-a8fd-4941-ac9b-d2011a0dd01a,wear.school,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",19/02/2025 15:41,19/02/2027 15:41,27/09/2026 08:43
@@ -663,8 +721,8 @@ d6a7de0c-d910-4eba-8f34-f7675112d550,embryonic.school,available,9.99,46.99,high,
 8909c7ab-7455-4c16-9f9d-b858c148b84a,pestered.school,available,9.99,46.99,medium,low,8,name.com,,,21/08/2026 00:13
 7a161799-53ee-478c-9794-47489eb95d91,bellyband.school,available,36.49,36.49,medium,low,9,namesilo,,,23/09/2026 06:51
 11747a52-2c2a-4ce1-b9af-40bbeb4bc7e0,trader.school,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",03/06/2015 16:00,03/06/2027 16:00,29/09/2026 01:10
-87a12d45-5c35-47cb-83e9-1c38db2e8a02,germinal.school,available,9.99,46.99,high,low,8,name.com,,,18/08/2026 22:49
-31176cc6-fe97-45bf-913a-fa1a01d01cad,pittsburgh.school,available,9.99,,high,low,10,name.com,,,
+87a12d45-5c35-47cb-83e9-1c38db2e8a02,germinal.school,available,9.99,46.99,medium,low,8,name.com,,,18/08/2026 22:49
+31176cc6-fe97-45bf-913a-fa1a01d01cad,pittsburgh.school,available,5.57,30.18,high,low,10,dynadot,,,30/09/2026 06:55
 39d8d323-16b7-42ce-9bba-01912d958e57,provo.school,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 01:55
 4a11a8a1-3884-4940-9030-d09d97a705e3,wilhelm.school,available,38.48,49.98,high,low,7,namecheap,,,25/09/2026 18:53
 838c3175-f049-47e1-a517-7a905fdda356,catastrophe.school,available,29.18,29.18,medium,low,11,spaceship,,,28/09/2026 22:54
@@ -672,7 +730,7 @@ d6a7de0c-d910-4eba-8f34-f7675112d550,embryonic.school,available,9.99,46.99,high,
 3f7f196e-fe66-491c-8ba6-b906c4f0fa48,lifts.school,available,29.18,29.18,medium,low,5,spaceship,,,29/09/2026 05:05
 eb7b3342-e132-4252-93f7-9e15bcf3cbab,screw.school,available,9.99,46.99,high,low,5,name.com,,,18/08/2026 17:26
 1a3c9885-e4e0-4f1e-aa65-a21d0857bbab,bristol.school,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 10:36
-15359635-9958-4688-b905-773faf6eff8d,sniper.school,resell,,,high,low,6,,,,28/09/2026 15:22
+15359635-9958-4688-b905-773faf6eff8d,sniper.school,resell,,,medium,low,6,,,,28/09/2026 15:22
 9af93b08-db76-4fcc-852f-2b53effaa88e,lungs.school,available,36.49,36.49,medium,low,5,namesilo,,,27/09/2026 02:43
 3bb582e7-7a09-4da1-9266-0d017fb5c5fe,windy.school,available,36.49,36.49,high,low,5,namesilo,,,22/09/2026 22:44
 5b8b4592-bfb3-416e-84cb-9acd9d969968,aper.school,available,36.49,36.49,medium,low,4,namesilo,,,19/09/2026 16:29
@@ -683,7 +741,7 @@ fcb80f58-2c56-4d73-866c-e2332343ac94,marblewood.school,available,36.49,36.49,med
 5dfe8e2f-c087-4001-9e24-05a93ce8f20f,jordanian.school,premium,64.35,128.7,high,low,9,namecheap,,,22/08/2026 14:01
 5f68bde2-a0af-4193-adfc-8f0e28c5c3a1,larboard.school,available,9.99,46.99,medium,low,8,name.com,,,22/08/2026 19:51
 d969d966-df09-4b0c-83db-77a5d8b3892a,bastion.school,available,36.49,36.49,high,low,7,namesilo,,,22/09/2026 12:50
-9db10fb1-b7bd-4cf0-a8b7-d14aac06e3fa,taped.school,available,9.99,46.99,high,low,5,name.com,,,11/09/2026 08:15
+9db10fb1-b7bd-4cf0-a8b7-d14aac06e3fa,taped.school,available,9.99,46.99,medium,low,5,name.com,,,11/09/2026 08:15
 7c738212-ecbd-41cf-812d-e3ab9611d0c7,santander.school,available,36.49,36.49,high,low,9,namesilo,,,29/09/2026 15:39
 d1b20b32-523c-4c5c-8bf6-cebf9d978dd8,horror.school,available,36.49,36.49,high,low,6,namesilo,,,27/09/2026 14:08
 6754fcd5-4b76-4a77-a180-c5312a039184,spectacle.school,available,28.2,28.2,high,low,9,cloudflare,,,28/09/2026 20:32
@@ -691,9 +749,10 @@ d1b20b32-523c-4c5c-8bf6-cebf9d978dd8,horror.school,available,36.49,36.49,high,lo
 07d1a748-a229-45f6-be36-ba799ff0176c,kanaf.school,available,36.49,36.49,medium,low,5,namesilo,,,23/09/2026 16:56
 b1f1132c-21df-4ddc-9a0c-5290c21f14f0,jump.school,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/05/2025 15:15,15/05/2027 15:15,26/09/2026 07:02
 537aadc7-7e59-4b1a-8e8a-e47fac32733b,farmer.school,premium,64.35,128.7,high,low,6,namecheap,,,08/09/2026 06:02
+344ec689-c7eb-4032-8492-205c7ad9a67a,helsinki.school,available,5.57,30.18,high,low,8,dynadot,,,30/09/2026 16:35
 ace46bf6-9c89-434e-ba0e-181d57b32627,communicating.school,available,29.18,29.18,medium,low,13,spaceship,,,28/09/2026 17:54
 65bc5f8c-df54-4b90-b00c-1a4dd63d9751,clerical.school,available,9.99,46.99,high,low,8,name.com,,,12/08/2026 10:48
-e179b4c8-8090-4774-b325-265f8e3ae08c,raccoon.school,available,9.99,,high,low,7,name.com,,,
+e179b4c8-8090-4774-b325-265f8e3ae08c,raccoon.school,available,29.18,29.18,high,low,7,spaceship,,,30/09/2026 09:06
 2a874687-afe6-4694-b06d-fec3b822c877,subclavian.school,available,36.49,36.49,medium,low,10,namesilo,,,10/09/2026 23:40
 16b63a4e-3de6-4e69-927b-e969bfc678b4,enraptured.school,available,9.99,46.99,high,low,10,name.com,,,14/08/2026 23:46
 8f5701d8-15b8-49f6-b222-57e313ab4d1c,masonic.school,available,9.99,46.99,high,low,7,name.com,,,24/08/2026 16:39
@@ -703,6 +762,7 @@ e179b4c8-8090-4774-b325-265f8e3ae08c,raccoon.school,available,9.99,,high,low,7,n
 4080e517-008b-4902-8adc-c6af052f77e4,trick.school,available,38.48,49.98,high,low,5,namecheap,,,22/09/2026 06:28
 40f1dda7-b982-4a38-9767-682bcff9aced,potter.school,available,29.18,29.18,high,low,6,spaceship,,,27/09/2026 12:23
 b4db41ad-1f8e-4afd-b185-f209a4de94f3,buffer.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 05:06
+5d6bc13b-b803-436a-aa87-ccad694f6729,manipulative.school,available,38.48,49.98,medium,low,12,namecheap,,,30/09/2026 19:49
 b878a617-7eef-4387-af00-959087c8cf82,malone.school,available,38.48,49.98,high,low,6,namecheap,,,25/09/2026 05:13
 ae1ba5c2-1943-469a-91d2-40a01aba53fb,redress.school,available,36.49,36.49,high,low,7,namesilo,,,09/09/2026 17:27
 71be3707-efbf-41a1-821f-ba1625482ec1,sophisticated.school,available,9.99,,high,low,13,name.com,,,
@@ -711,7 +771,7 @@ c5e4b931-0d79-4391-998c-da2ac61c6bb0,examination.school,available,29.18,29.18,hi
 19904e3b-d7b5-4da2-b444-30fc84d79811,ambo.school,available,36.49,36.49,medium,low,4,namesilo,,,18/09/2026 17:17
 bf0ced5c-54a9-47a0-86da-812db9c5d971,malden.school,available,28.2,28.2,medium,low,6,cloudflare,,,29/09/2026 15:07
 6d526e12-65a2-4e82-a666-ee94cd91d45b,comparably.school,available,36.49,36.49,medium,low,10,namesilo,,,14/09/2026 07:37
-6b1bc07c-9bc8-47e5-9abc-3bfab8bc9816,patriotism.school,available,9.99,,high,low,10,name.com,,,
+6b1bc07c-9bc8-47e5-9abc-3bfab8bc9816,patriotism.school,available,28.2,28.2,high,low,10,cloudflare,,,30/09/2026 05:24
 6aa1715b-5a23-4781-9360-ff7d363bca79,concealing.school,available,9.99,46.99,high,low,10,name.com,,,12/08/2026 19:52
 eac6b611-4f11-4c4a-b15d-1c7588b1ad49,aliquot.school,available,9.99,46.99,medium,low,7,name.com,,,
 f5fd2074-3646-4eac-8340-d751e901bd5c,lackluster.school,available,9.99,46.99,medium,low,10,name.com,,,22/08/2026 18:07
@@ -726,20 +786,23 @@ d80f1268-7e4e-4cf0-b5f7-d6eab8ea9cdf,detoxify.school,available,36.49,36.49,high,
 fe1632d6-4a3c-4709-ac43-491827e8e3ad,antwerp.school,available,38.48,49.98,medium,low,7,namecheap,,,19/09/2026 15:48
 035f910f-e733-49ec-b839-6823efc72950,absinthe.school,available,38.48,49.98,high,low,8,namecheap,,,16/09/2026 17:47
 a4d7e1b6-be24-488d-b847-baa41b505bb3,sundown.school,available,36.49,36.49,high,low,7,namesilo,,,11/09/2026 02:12
+114da91b-c2c1-4975-9845-1e8e069e5f0a,europeans.school,available,36.49,36.49,medium,low,9,namesilo,,,30/09/2026 15:43
 dbce3aab-96c7-4e02-96c4-fd61ededb387,sexiness.school,available,36.49,36.49,high,low,8,namesilo,,,18/09/2026 16:14
 334c5cf4-0c56-4a85-a18a-5d3460362223,allen.school,available,36.49,36.49,high,low,5,namesilo,,,18/09/2026 10:46
 967fa6d9-0768-4732-8cba-5d7a7f1428f6,anshar.school,available,38.48,49.98,medium,low,6,namecheap,,,19/09/2026 12:12
-2a90e055-6bbb-4a6e-964e-07740cde17cf,expect.school,available,9.99,,high,low,6,name.com,,,
+2a90e055-6bbb-4a6e-964e-07740cde17cf,expect.school,available,29.18,29.18,high,low,6,spaceship,,,30/09/2026 15:04
 5b14c477-b802-4344-9e18-a0237a9f84ec,lasted.school,available,38.48,49.98,medium,low,6,namecheap,,,28/09/2026 04:59
+58c35898-276d-416d-90b9-9c28d2494326,ince.school,available,38.48,49.98,medium,low,4,namecheap,,,30/09/2026 21:44
 b36fe5d4-e0cf-42ca-be06-f2d8a6681429,decoration.school,available,29.18,29.18,high,low,10,spaceship,,,28/09/2026 18:55
 82982838-a92e-430f-843e-d01a4b0dbbb2,baklava.school,available,38.48,49.98,high,low,7,namecheap,,,21/09/2026 20:21
 66c6deb2-a4d5-4d3a-a503-fa521773bdf5,ultraviolet.school,available,36.49,36.49,high,low,11,namesilo,,,30/09/2026 03:39
-d1cc0574-eb9c-45e8-b9c6-10117dd9a445,addison.school,available,36.49,36.49,high,low,7,namesilo,,,29/09/2026 23:23
+d1cc0574-eb9c-45e8-b9c6-10117dd9a445,addison.school,available,36.49,36.49,medium,low,7,namesilo,,,29/09/2026 23:23
 fe85a2f8-7342-4f8e-8133-e7a60d603e54,allograph.school,available,36.49,36.49,medium,low,9,namesilo,,,18/09/2026 11:54
 f9badc22-5f48-4c37-beeb-3332ebb1bd01,flips.school,available,38.48,49.98,medium,low,5,namecheap,,,19/09/2026 20:33
 16f25f16-79aa-4527-9f2b-3549055b1ff9,exilic.school,available,9.99,46.99,medium,low,6,name.com,,,17/08/2026 17:19
 7f68f649-0a4d-40e3-b9f0-377079247e69,construction.school,resell,,,high,low,12,"Xiamen ChinaSource Internet Service Co., Ltd",20/02/2026 15:15,20/02/2027 15:15,26/09/2026 05:13
 001ee50f-6383-407f-b115-63c6b6853a32,tougher.school,available,28.2,28.2,medium,low,7,cloudflare,,,29/09/2026 11:36
+4359d901-4614-4f79-9710-43712e9546ac,fetus.school,available,29.18,29.18,high,low,5,spaceship,,,30/09/2026 17:18
 c2e11566-991b-4599-856c-41a3fa2c8a99,behrens.school,available,36.49,36.49,high,low,7,namesilo,,,23/09/2026 03:56
 f9bf6266-ac3d-4c3b-ac2a-7136ede02629,others.school,available,36.49,36.49,high,low,6,namesilo,,,25/09/2026 16:48
 20f567cb-c28c-44e1-a893-473117c41ddc,relax.school,available,36.49,36.49,high,low,5,namesilo,,,27/09/2026 06:03
@@ -751,10 +814,13 @@ a94f8f79-a4db-4623-91b6-3a5157516492,love.school,resell,,,high,medium,4,"Chengdu
 076367d6-3b7e-4890-860c-39363958752e,monegasque.school,premium,64.35,128.7,medium,low,10,namecheap,,,25/08/2026 04:03
 3801bf3e-381e-4f59-807c-26f8b77fda70,appreciative.school,available,9.99,,high,low,12,name.com,,,
 334fa44e-47b0-4b0b-8c12-4b56605473ec,saccade.school,available,9.99,46.99,medium,low,7,name.com,,,22/08/2026 12:47
+c4fb8b57-92d2-4fa5-80bf-513db8872c78,christiansen.school,available,36.49,36.49,medium,low,12,namesilo,,,30/09/2026 13:39
 81e9afd0-256c-4162-ae99-2f46996fce4c,dispatching.school,available,9.99,,high,low,11,name.com,,,
+dd04d759-4793-4818-a263-c2f598db0e64,palacio.school,available,5.57,30.18,medium,low,7,dynadot,,,30/09/2026 05:36
+4cd08ac9-bfac-4be2-8dba-2032c244a3d0,melo.school,available,36.49,36.49,high,low,4,namesilo,,,30/09/2026 21:58
 283ba76e-443b-451b-8118-6a5ee402f034,soph.school,available,36.49,36.49,high,low,4,namesilo,,,10/09/2026 14:20
 62d33da8-ba70-4ed3-80f3-d5ad6dc333a4,prissily.school,available,38.48,49.98,low,low,8,namecheap,,,15/09/2026 21:29
-6c71c204-5ba4-41d8-9f6c-ca2c7b4eb0ad,antenatal.school,available,36.49,36.49,high,low,9,namesilo,,,22/09/2026 05:59
+6c71c204-5ba4-41d8-9f6c-ca2c7b4eb0ad,antenatal.school,available,36.49,36.49,medium,low,9,namesilo,,,22/09/2026 05:59
 5b8e534b-7e78-4633-8f8e-25e12f7b62d2,bandage.school,available,36.49,36.49,high,low,7,namesilo,,,22/09/2026 00:52
 7ab18427-47ad-4169-a359-909f272aad0b,enatic.school,available,9.99,46.99,medium,low,6,name.com,,,16/08/2026 21:20
 e87d01ec-2691-4c6f-982c-7d02b8f439ec,airspeed.school,available,36.49,36.49,high,low,8,namesilo,,,17/09/2026 23:22
@@ -773,17 +839,19 @@ ae46100e-0f31-4f73-9aa5-b044e390b979,adenoma.school,available,36.49,36.49,medium
 32268578-feaf-467a-a270-d52b4eebcb0a,overgreedy.school,available,36.49,36.49,medium,low,10,namesilo,,,04/09/2026 20:38
 8a44c12d-fe23-4b38-acb6-984027db3def,grounds.school,available,38.48,49.98,high,low,7,namecheap,,,24/09/2026 20:34
 87b854ac-d65c-4910-af19-9ea4eaca0f8e,tortrix.school,available,36.49,36.49,medium,low,7,namesilo,,,20/09/2026 05:04
-b27dc3c6-d449-4882-83e7-92f72571e4c3,supermodel.school,available,9.99,,high,low,10,name.com,,,
+b27dc3c6-d449-4882-83e7-92f72571e4c3,supermodel.school,available,29.18,29.18,high,low,10,spaceship,,,30/09/2026 12:30
 8ce41faa-870b-4a2b-9139-6cb1a3efedd7,illegible.school,available,9.99,46.99,medium,low,9,name.com,,,21/08/2026 19:48
 548d875a-e7b2-4705-8687-2a813d88977a,tasty.school,available,36.49,36.49,high,low,5,namesilo,,,11/09/2026 09:04
+e3e9e4bc-81aa-492f-9422-1a78b9755176,naia.school,available,5.66,29.35,medium,low,4,porkbun,,,30/09/2026 12:50
 91aa59a7-0c25-4d26-84f6-11f8bf8cd239,intercultural.school,available,9.99,,high,low,13,name.com,,,
 86afc331-3da3-407f-9fa3-84d92e812cbb,handless.school,available,9.99,46.99,medium,low,8,name.com,,,11/08/2026 10:12
 dccae8d7-c2c3-43a0-b220-3124bc7c779f,gaelic.school,available,9.99,46.99,high,low,6,name.com,,,11/08/2026 23:40
 c4f92828-6a1d-4370-84d2-c56f514a09fd,claim.school,available,36.49,36.49,high,low,5,namesilo,,,29/09/2026 09:40
-a92c9783-0504-4b09-9015-6e01a1c22470,screenshot.school,available,9.99,,high,low,10,name.com,,,
+a92c9783-0504-4b09-9015-6e01a1c22470,screenshot.school,available,36.49,36.49,high,low,10,namesilo,,,01/10/2026 01:28
 9cbac4a4-b9ba-4327-a269-19bd6bbd8705,catarrhine.school,available,9.99,46.99,medium,low,10,name.com,,,11/08/2026 21:11
 0954edaf-225e-4884-a54b-3c828f9ddc33,bosky.school,available,9.99,46.99,medium,low,5,name.com,,,10/08/2026 20:17
 0b3e736f-6a58-4c05-8383-f9f008030265,isi.school,premium,,,high,low,3,,,,29/09/2026 06:40
+520d02f7-43a1-478b-867d-8acd0b2eef86,hunch.school,available,36.49,36.49,high,low,5,namesilo,,,30/09/2026 10:11
 7eb78178-c8b0-4567-ae8e-0b042bf93b23,whistler.school,available,36.49,36.49,high,low,8,namesilo,,,30/09/2026 00:54
 c8b918d2-fe62-4bf0-8ab8-85f8363c4a1a,albums.school,available,36.49,36.49,low,low,6,namesilo,,,29/09/2026 05:39
 a0bb9d61-85da-44a8-a0fe-d3f875a96c01,jesting.school,available,9.99,46.99,high,low,7,name.com,,,22/08/2026 12:52
@@ -796,33 +864,38 @@ a0bb9d61-85da-44a8-a0fe-d3f875a96c01,jesting.school,available,9.99,46.99,high,lo
 f8dc23a0-3967-420f-851c-b8191e1e082c,humiliation.school,available,28.2,28.2,medium,low,11,cloudflare,,,28/09/2026 12:26
 5b1a2d5c-eacd-4613-bd7e-5977d38dc7aa,biplane.school,available,,,high,low,7,,,,23/09/2026 19:18
 3b0ffaf9-9396-48d0-9680-48c2b7cad1a8,wet.school,premium,118.8,118.8,high,low,3,namesilo,,,22/09/2026 19:43
-31c98d1d-2e54-4a56-b5a2-2140caea0763,montreal.school,premium,140,280,high,low,8,namecheap,,,
+31c98d1d-2e54-4a56-b5a2-2140caea0763,montreal.school,premium,103.7,207.2,high,low,8,spaceship,,,30/09/2026 05:13
 0f62b922-f693-4d24-93f8-600bb87e1bcc,agreeably.school,available,38.48,49.98,medium,low,9,namecheap,,,13/09/2026 18:22
+d2075322-e1f7-4c1d-ab64-9229830412dd,cowen.school,available,38.48,49.98,medium,low,5,namecheap,,,30/09/2026 20:26
 507f25f8-e146-4de4-bf81-10ca74611cdd,comprehensive.school,available,29.18,29.18,high,low,13,spaceship,,,29/09/2026 02:53
 07095e03-1e94-4dd8-af5d-08f5483edb33,conquering.school,available,38.48,49.98,high,low,10,namecheap,,,24/09/2026 17:24
 d6747678-8dcf-4595-a993-fe3bcc3e8856,maui.school,available,36.49,36.49,high,low,4,namesilo,,,28/09/2026 02:23
 035506e6-c1f2-40d1-bcc1-d97df8ee4648,agrarian.school,available,9.99,46.99,high,low,8,name.com,,,
 b37e7a30-bc8e-4f41-a000-92fb637e7460,amusingly.school,available,36.49,36.49,medium,low,9,namesilo,,,13/09/2026 19:40
-e097e4d5-acaf-4973-86ba-bc80b45e93c5,rae.school,premium,64.35,128.7,high,low,3,namecheap,,,27/09/2026 01:43
+1a768aa0-df98-470f-ab97-f823b54f81cb,chipped.school,available,29.18,29.18,medium,low,7,spaceship,,,30/09/2026 19:50
+e097e4d5-acaf-4973-86ba-bc80b45e93c5,rae.school,premium,64.35,128.7,medium,low,3,namecheap,,,27/09/2026 01:43
 82a1dce5-a888-45be-ace0-9653ea9cb704,widely.school,available,29.18,29.18,medium,low,6,spaceship,,,28/09/2026 16:47
 e537041a-9356-4f73-9d45-48c9ef696c8b,arcturus.school,available,36.49,36.49,medium,low,8,namesilo,,,20/09/2026 03:01
-d9cead1e-8674-4508-8396-e3dbd0180efd,doubtful.school,available,36.49,36.49,high,low,8,namesilo,,,24/09/2026 11:52
+d9cead1e-8674-4508-8396-e3dbd0180efd,doubtful.school,available,36.49,36.49,medium,low,8,namesilo,,,24/09/2026 11:52
+2c224784-40ce-43bb-8491-33c72548f17b,raion.school,available,29.18,29.18,high,low,5,spaceship,,,30/09/2026 20:23
 09aa151f-3126-4716-8d8c-01cf3759b52f,fuller.school,available,36.49,36.49,high,low,6,namesilo,,,29/09/2026 11:47
 9c8647ed-023d-405a-a538-cc4e92975ca9,chanukah.school,available,36.49,36.49,high,low,8,namesilo,,,29/09/2026 08:10
 2d9612e7-cb68-402b-a74f-0785b534c30b,sternly.school,available,36.49,36.49,medium,low,7,namesilo,,,16/09/2026 07:01
 ce79d392-6ba6-4a2b-aafc-e6ed9ac8cb8f,lagos.school,available,29.18,29.18,high,low,5,spaceship,,,27/09/2026 14:38
 b82734b1-90f4-431b-bb94-af0281fe041e,pretty.school,available,36.49,36.49,high,low,6,namesilo,,,25/09/2026 12:04
 18381745-3c72-44e4-8fb8-a4a32b524523,herakles.school,available,36.49,36.49,high,low,8,namesilo,,,18/09/2026 04:05
-571e75b7-e9f7-4977-832f-efb79ea01572,assort.school,available,36.49,36.49,high,low,6,namesilo,,,17/09/2026 14:23
+571e75b7-e9f7-4977-832f-efb79ea01572,assort.school,available,36.49,36.49,medium,low,6,namesilo,,,17/09/2026 14:23
 cd8865c9-91de-48e7-89b4-9400d3e7441f,fearful.school,available,36.49,36.49,medium,low,7,namesilo,,,24/09/2026 01:08
-5fdd3f23-5c29-47db-9c24-73d226efbd6a,microwave.school,available,9.99,,high,low,9,name.com,,,
+5fdd3f23-5c29-47db-9c24-73d226efbd6a,microwave.school,available,29.18,29.18,high,low,9,spaceship,,,30/09/2026 04:20
 75516ff4-d778-4595-ac35-e693d8c5f951,bleed.school,available,36.49,36.49,medium,low,5,namesilo,,,28/09/2026 14:26
 adf5bd3f-efb2-4308-b14a-bf2923099b74,mediate.school,available,9.99,46.99,high,low,7,name.com,,,21/08/2026 23:37
+5780b0b4-3640-4807-918d-a5a4149114cc,howe.school,available,5.57,30.18,high,low,4,dynadot,,,30/09/2026 17:09
 7c9c6fc8-f3b4-442c-82a0-895941fda9ab,slapdash.school,available,36.49,36.49,medium,low,8,namesilo,,,10/09/2026 09:57
 f01e9459-4a2a-4aa9-a693-fc557084cfd3,vixenish.school,available,36.49,36.49,medium,low,8,namesilo,,,13/09/2026 06:24
 82d895e6-d445-4a98-b5dd-422c67272cec,revolving.school,available,36.49,36.49,high,low,9,namesilo,,,29/09/2026 14:43
 51bd2e00-4082-4cff-bb50-c6e5a2fa8b76,asat.school,available,9.99,46.99,medium,low,4,name.com,,,05/08/2026 19:31
 d36b70d5-0684-40aa-9a5c-b67629e4ce2b,suppose.school,available,38.48,49.98,high,low,7,namecheap,,,29/09/2026 11:02
+85d2792c-9a8c-4222-b500-28282d2a9501,vectors.school,available,36.49,36.49,medium,low,7,namesilo,,,01/10/2026 00:02
 59a776be-1978-4ee6-8440-23c29a5aac43,vermillion.school,available,9.99,46.99,medium,low,10,name.com,,,12/08/2026 05:47
 a12217d2-74a7-4391-befe-8e305ec04bbb,splashed.school,available,9.99,46.99,high,low,8,name.com,,,13/08/2026 15:18
 48771c70-9136-4a65-b055-1832706755dc,align.school,available,5.57,30.18,high,low,5,dynadot,,,30/09/2026 03:12
@@ -845,7 +918,7 @@ dfaac8c3-2686-44ee-b0ab-335ab8a1b4e0,generators.school,available,9.99,,medium,lo
 36b214c2-be0d-4f47-8e4c-2b796c376575,fitzpatrick.school,available,38.48,49.98,medium,low,11,namecheap,,,27/09/2026 07:56
 340f9200-2aea-4d37-9975-d10dfa8ff589,antakya.school,available,38.48,49.98,medium,low,7,namecheap,,,19/09/2026 12:30
 09813f97-ca30-47c1-abba-a3c3c705ad4e,meadows.school,resell,,,medium,low,7,,,,29/09/2026 11:15
-ecba7bc5-18fa-47f6-b77d-a3b90c78733f,crusty.school,available,9.99,46.99,high,low,6,name.com,,,13/08/2026 09:26
+ecba7bc5-18fa-47f6-b77d-a3b90c78733f,crusty.school,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 09:26
 f1c4891c-ee22-4ce7-988c-045353eaa403,adhocracy.school,available,38.48,49.98,medium,low,9,namecheap,,,17/09/2026 08:02
 416a9c4f-5afe-4700-8b36-0fbc51ba624d,hexangular.school,available,9.99,46.99,medium,low,10,name.com,,,21/08/2026 07:48
 096c7bc3-7f9a-410a-a459-a745dbe3566a,profligate.school,available,9.99,46.99,medium,low,10,name.com,,,13/08/2026 20:24
@@ -869,7 +942,7 @@ b1c922f1-b94c-4eb7-a39f-ac202afc4223,depicted.school,available,9.99,46.99,medium
 d3f86279-5ad0-4bca-88be-674ac5aa82c2,gaps.school,available,36.49,36.49,medium,low,4,namesilo,,,20/09/2026 11:47
 77e687ce-197a-492f-8e94-f8550629a54b,nickelodeon.school,available,9.99,,high,low,11,name.com,,,
 13ecca59-4da8-47ba-ad17-f197b6e579b5,terminators.school,available,36.49,36.49,low,low,11,namesilo,,,20/09/2026 12:06
-b89b5df7-9f85-4a34-a7ae-a35fd3b7d430,whitefish.school,available,9.99,,high,low,10,name.com,,,
+b89b5df7-9f85-4a34-a7ae-a35fd3b7d430,whitefish.school,available,9.99,,medium,low,10,name.com,,,
 3d20ff28-550b-469e-a72a-0a04c9c5c5c6,bonfire.school,available,38.48,49.98,high,low,7,namecheap,,,21/09/2026 21:51
 4ec79a17-8284-41a9-a78d-9378ad4149c5,synchronal.school,available,36.49,36.49,medium,low,10,namesilo,,,11/09/2026 06:13
 66388a49-8129-4951-ae79-29ecd2561ce3,oxidized.school,available,36.49,36.49,medium,low,8,namesilo,,,04/09/2026 22:25
@@ -879,31 +952,33 @@ f8f7ca0c-92f4-4eef-80b4-06575d5ef800,nicholls.school,available,28.2,28.2,medium,
 12defd37-f516-4d3b-a092-a2c269feffcb,grenville.school,available,5.66,29.35,medium,low,9,porkbun,,,29/09/2026 04:31
 04fb37e7-bc64-4ce2-9975-0024e680fe8b,fogey.school,available,9.99,46.99,medium,low,5,name.com,,,18/08/2026 13:10
 31c8ef49-37c5-4cfb-8b39-3847b1ed2330,silesian.school,available,36.49,36.49,medium,low,8,namesilo,,,29/09/2026 03:15
-9f9e0721-2836-47aa-a6d8-aa03cad30ef2,expendable.school,available,9.99,46.99,high,low,10,name.com,,,17/08/2026 18:08
+9f9e0721-2836-47aa-a6d8-aa03cad30ef2,expendable.school,available,9.99,46.99,medium,low,10,name.com,,,17/08/2026 18:08
 f1bc2b08-9d52-4aa6-8d20-010a71a777fe,wanting.school,available,28.2,28.2,high,low,7,cloudflare,,,28/09/2026 10:19
 751eb08d-713b-481b-8d98-4d20b73bf7c8,grinding.school,available,29.18,29.18,medium,low,8,spaceship,,,28/09/2026 19:23
 8c4b939c-50b6-4b20-a9ea-caac2ae6f518,airtight.school,available,9.99,46.99,high,low,8,name.com,,,
 71540fe7-ddec-427e-b80b-2e60d8eeb2c4,bandbox.school,available,38.48,49.98,medium,low,7,namecheap,,,22/09/2026 01:01
-aaf2f18d-608c-4404-84ed-32037dacf67c,arts.school,premium,414.2,828.2,high,low,4,spaceship,,,28/09/2026 04:29
+aaf2f18d-608c-4404-84ed-32037dacf67c,arts.school,premium,854,854,high,low,4,namesilo,,,01/10/2026 02:32
 d30aa4a1-4fc5-4636-935e-0aa31409c982,inducive.school,available,9.99,46.99,medium,low,8,name.com,,,22/08/2026 03:31
 52d3f2e5-6383-4021-882a-2b57d5bcce0f,colon.school,available,36.49,36.49,high,low,5,namesilo,,,20/09/2026 15:16
 24331588-909a-4179-b18f-dda432b1e37e,asynchrony.school,available,36.49,36.49,medium,low,10,namesilo,,,20/09/2026 18:41
 52cd9cc6-afd1-49b2-a6ae-6886a235c460,overdone.school,available,9.99,46.99,medium,low,8,name.com,,,17/08/2026 15:34
 a4bd34de-8bdc-48c6-a7e4-d92a4e15490f,spineless.school,available,9.99,46.99,medium,low,9,name.com,,,22/08/2026 08:58
-795fa075-e418-47cc-997a-0c27d6fbb1ed,adoptee.school,available,38.48,49.98,high,low,7,namecheap,,,17/09/2026 09:39
-617bacd8-a074-46c2-8953-722cc342777c,delicately.school,available,36.49,36.49,high,low,10,namesilo,,,14/09/2026 11:25
+795fa075-e418-47cc-997a-0c27d6fbb1ed,adoptee.school,available,38.48,49.98,medium,low,7,namecheap,,,17/09/2026 09:39
+60fa56df-fa57-419c-98f3-8218418e5fbd,unveiling.school,available,36.49,36.49,high,low,9,namesilo,,,30/09/2026 16:57
+617bacd8-a074-46c2-8953-722cc342777c,delicately.school,available,36.49,36.49,medium,low,10,namesilo,,,14/09/2026 11:25
 c1e937b4-16b4-439f-8fbc-ae2aa6edbdfb,baneful.school,available,9.99,46.99,low,low,7,name.com,,,08/08/2026 09:44
 8701e7c5-197a-43fd-ae38-20824397031f,bulimia.school,available,36.49,36.49,medium,low,7,namesilo,,,23/09/2026 17:32
 d6bc9a34-07ba-478f-b888-3b79899f537d,carmichael.school,available,36.49,36.49,high,low,10,namesilo,,,28/09/2026 02:01
 e7ae1138-aa7f-4eb1-ae22-5caa9f60a6ae,needfully.school,available,36.49,36.49,medium,low,9,namesilo,,,15/09/2026 16:20
-302d16ac-4e29-4432-af61-e83610508be1,convertible.school,available,36.49,36.49,high,low,11,namesilo,,,28/09/2026 15:45
+302d16ac-4e29-4432-af61-e83610508be1,convertible.school,available,36.49,36.49,medium,low,11,namesilo,,,28/09/2026 15:45
 0a824593-c6be-44a9-ae9f-a72b20d72e59,velvety.school,available,36.49,36.49,high,low,7,namesilo,,,13/09/2026 02:00
 59569653-5495-41c3-af71-a6ad1cf3d66f,fuchs.school,available,5.57,30.18,medium,low,5,dynadot,,,28/09/2026 14:00
-2180968d-403e-44a8-a016-814be9277f5a,jeffery.school,available,36.49,36.49,high,low,7,namesilo,,,29/09/2026 09:37
+2180968d-403e-44a8-a016-814be9277f5a,jeffery.school,available,36.49,36.49,medium,low,7,namesilo,,,29/09/2026 09:37
 66bbc5d8-f0ab-48ec-bc1d-4efb4ddf1607,rubs.school,available,36.49,36.49,medium,low,4,namesilo,,,20/09/2026 09:37
 915a6e86-f4db-4037-a35d-fef7ac0efe4d,indelibly.school,available,36.49,36.49,medium,low,9,namesilo,,,15/09/2026 07:53
 e07accb5-6f98-4db7-ab4a-d806d8eb5255,url.school,premium,51.43,102.67,high,medium,3,spaceship,,,28/09/2026 11:02
 b935defb-5d94-4358-976b-e3a4842b0c55,insulted.school,available,5.57,30.18,low,low,8,dynadot,,,28/09/2026 23:30
+22b2c30d-7b3c-441b-954d-1d45cbaaef83,rawlings.school,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 05:43
 9646c2bf-b734-48f4-a746-d5281f52b186,unq.school,premium,38.94,38.94,medium,low,3,namesilo,,,20/09/2026 22:06
 4e930277-3944-41c9-b9ce-60745f3e37e3,emission.school,available,29.18,29.18,high,low,8,spaceship,,,30/09/2026 01:30
 196ea070-d016-4566-b323-9008df525198,reminder.school,available,29.18,29.18,high,low,8,spaceship,,,28/09/2026 18:51
@@ -923,79 +998,4 @@ cdecad1f-7fa6-4ecc-bf6b-8a1413d5fee7,serum.school,available,29.18,29.18,high,low
 c1aab341-f576-4d6e-b3b4-25e376153d2e,dishwasher.school,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 15:53
 54ef3dd0-4a3e-4a2a-8615-fe11b6303e9d,successes.school,available,9.99,,medium,low,9,name.com,,,
 2fa1c755-e194-41fc-bf5e-eaeb75532387,teddy.school,available,36.49,36.49,high,low,5,namesilo,,,24/09/2026 14:16
-9addd6e4-3565-4d6d-85ce-b8acc22cd4f1,manx.school,available,9.99,46.99,high,low,4,name.com,,,24/08/2026 15:32
-b465d659-af4c-4a88-b86b-43dd2df48e66,adherent.school,available,9.99,46.99,high,low,8,name.com,,,
-0eebf70c-7d5e-4e6c-a7c2-19d146b4d52c,jeer.school,available,9.99,46.99,medium,low,4,name.com,,,22/08/2026 12:37
-3bf0410a-f0a2-406f-8c80-4c7c62dd3e28,sunken.school,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 22:55
-0fbca1b1-70b7-4919-b962-98d78346b42b,speedily.school,available,38.48,49.98,medium,low,8,namecheap,,,13/09/2026 20:19
-da69c126-6929-4973-9a68-cae005d70325,astacus.school,available,36.49,36.49,medium,low,7,namesilo,,,20/09/2026 16:51
-99c497e0-d7bc-4f1a-9331-b97624fc3f43,colleague.school,available,36.49,36.49,high,low,9,namesilo,,,24/09/2026 16:08
-8ef65472-8782-4a6e-9029-fcdb13f04bbc,karen.school,available,36.49,36.49,high,low,5,namesilo,,,25/09/2026 08:08
-19b0ba75-f75e-46e2-b2da-b64f9ebb19d0,fade.school,available,29.18,29.18,high,low,4,spaceship,,,28/09/2026 05:41
-b883d8c3-68a0-470e-b972-68b63d2714c3,peshawar.school,available,29.18,29.18,high,low,8,spaceship,,,29/09/2026 19:57
-fd03c0cd-f1c2-449e-b241-90a6dac92288,verbalise.school,available,36.49,36.49,medium,low,9,namesilo,,,13/09/2026 00:16
-0bba8b08-3484-420f-a493-ea04599fab8f,grumbler.school,available,36.49,36.49,medium,low,8,namesilo,,,23/09/2026 06:49
-06085ae7-3ceb-4dfb-8ec1-bf73823a6370,spoilt.school,available,9.99,46.99,medium,low,6,name.com,,,10/08/2026 14:19
-6fa362ef-dec1-4dcf-bb0f-5b71b92523b5,plead.school,available,36.49,36.49,high,low,5,namesilo,,,28/09/2026 15:36
-c13e2bdb-7419-4626-8803-b538e9bdc752,causally.school,available,36.49,36.49,medium,low,8,namesilo,,,14/09/2026 06:01
-684ddeba-303d-4f66-89ee-796f1e7b36d4,grudge.school,available,38.48,49.98,high,low,6,namecheap,,,29/09/2026 19:05
-f2544e7d-c6d4-4403-8038-00888e4f26d5,sweatshop.school,available,9.99,,medium,low,10,name.com,,,
-05de6bb5-8661-464d-9ba1-98e7e7531ca6,fusty.school,available,9.99,46.99,low,low,5,name.com,,,18/08/2026 16:42
-894b5932-48ee-4a18-b149-e7617995b920,disgrace.school,available,5.57,30.18,high,low,8,dynadot,,,29/09/2026 15:44
-5e9b1a22-b266-438b-9300-0fba610fffa0,hangnail.school,available,38.48,49.98,medium,low,8,namecheap,,,17/09/2026 18:26
-09246511-2648-44e2-818a-dae227f69e17,reformer.school,available,36.49,36.49,high,low,8,namesilo,,,19/09/2026 15:23
-97c2bbae-659e-4d29-9b2f-adbfc5d9c266,yourself.school,available,36.49,36.49,high,low,8,namesilo,,,25/09/2026 12:53
-869707d2-9110-4941-a8bc-979281642558,avon.school,available,5.66,29.35,high,low,4,porkbun,,,28/09/2026 23:31
-cb3a672f-57b1-47a0-9ae5-b9378006e7cb,agni.school,available,38.48,49.98,medium,low,4,namecheap,,,17/09/2026 18:43
-e9a5cca6-0284-4c8b-a816-123fd074dae8,palsied.school,available,36.49,36.49,medium,low,7,namesilo,,,05/09/2026 00:19
-0ce9777b-8858-4e27-a8fd-7e757778657c,afc.school,premium,51.43,102.67,high,low,3,spaceship,,,28/09/2026 16:17
-586f1c7b-dc68-4212-8484-6be7a531cd8f,fag.school,premium,21.45,42.9,high,low,3,namecheap,,,09/09/2026 08:03
-202f700d-32b2-4b72-bb58-c0ef8adc570e,retired.school,available,28.2,28.2,high,low,7,cloudflare,,,27/09/2026 13:17
-cc8be1d3-ff82-4917-a765-f9649151d296,rhetorical.school,available,36.49,36.49,high,low,10,namesilo,,,09/09/2026 16:37
-1e2b202a-c480-474b-8000-d9bfbfd94aa5,apr.school,premium,118.8,118.8,high,low,3,namesilo,,,19/09/2026 22:28
-c93ef1db-a1d8-4b9a-924a-0e52675e5c03,eroding.school,available,36.49,36.49,medium,low,7,namesilo,,,13/09/2026 09:08
-bd939806-0f6e-425d-9834-2bc012ab2d74,accursed.school,available,9.99,46.99,medium,low,8,name.com,,,
-4812a8b0-5acb-433e-919b-6624b7a40936,file.school,available,38.48,49.98,high,medium,4,namecheap,,,24/09/2026 21:00
-f4488d90-7036-475f-ae8e-7cf750c70570,succinct.school,available,36.49,36.49,high,low,8,namesilo,,,23/09/2026 17:07
-94044746-ae70-4b25-998b-68b096d4b8ac,gusto.school,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 21:46
-cd91f726-ebf4-4d83-9f66-5331c7ed88a8,abbess.school,available,36.49,36.49,medium,low,6,namesilo,,,16/09/2026 14:23
-f23db6e7-70e8-4cc3-be33-2136ca4feba3,villagers.school,available,36.49,36.49,medium,low,9,namesilo,,,29/09/2026 05:33
-8ae441af-b3c1-4101-8629-2267cf33e370,disastrous.school,available,9.99,46.99,medium,low,10,name.com,,,11/08/2026 13:30
-d6b1d62d-3165-4bf3-babf-e97d1f42d004,bhutani.school,available,9.99,46.99,medium,low,7,name.com,,,09/08/2026 18:26
-9edc74f6-5835-46fc-b830-093722d9f5a2,reactive.school,available,36.49,36.49,high,low,8,namesilo,,,09/09/2026 10:56
-f8f37cb8-43b0-4ddb-b73d-74aeb4ed9f27,nightclub.school,available,36.49,36.49,high,low,9,namesilo,,,29/09/2026 00:18
-43a33ee2-d3ca-4252-bd5f-fac0d617a06e,churlish.school,available,9.99,46.99,medium,low,8,name.com,,,12/08/2026 07:49
-d9d14464-c81c-46f7-9f70-523282308906,whereabouts.school,available,9.99,,high,low,11,name.com,,,
-1c4c6581-f30f-4f5e-bdab-e74d0585ebe0,prevent.school,available,9.99,,high,low,7,name.com,,,
-abce0dc4-923a-46de-a3e4-82b8de919bf1,alcoholism.school,available,36.49,36.49,high,low,10,namesilo,,,18/09/2026 04:06
-417b9947-be6e-4ec7-99c2-64888f7abfa9,mythic.school,available,36.49,36.49,high,low,6,namesilo,,,03/09/2026 12:29
-288ca3b8-b2d1-4d18-b654-acc294f6fe49,briefs.school,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 04:18
-81c5dfb8-fa55-41c1-9c51-ca00041a6c02,banqueting.school,available,36.49,36.49,high,low,10,namesilo,,,22/09/2026 03:08
-78bb2276-6e44-4792-822f-eb93c5e30d84,gip.school,premium,21.45,42.9,medium,low,3,namecheap,,,14/09/2026 08:07
-8f28e9f6-5d41-4c6f-961b-16dacb83e9bf,autosexing.school,available,38.48,49.98,medium,low,10,namecheap,,,21/09/2026 07:42
-d82c2512-f9ed-4e2f-9a32-212fa780db0e,hemisphere.school,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 06:17
-f0b6bf6b-1dcf-43bb-bcf1-5bb97dcbd454,southampton.school,available,36.49,36.49,high,low,11,namesilo,,,25/09/2026 14:27
-63acd846-8c9a-48c1-bdb0-15ffd3f9d6ec,wristband.school,available,36.49,36.49,high,low,9,namesilo,,,24/09/2026 07:49
-233c3658-922b-43ac-864f-68ffb0634c14,punkey.school,available,38.48,49.98,medium,low,6,namecheap,,,23/09/2026 22:34
-5bd670c4-8c27-492b-9b5b-3db7a18623b7,seafaring.school,available,36.49,36.49,medium,low,9,namesilo,,,04/09/2026 00:22
-db09dac6-5f62-4e8b-9826-0274c6595c85,poetic.school,available,36.49,36.49,high,low,6,namesilo,,,08/09/2026 22:33
-3296efec-e733-452a-8dd7-931b30e5b1fb,georg.school,available,38.48,49.98,high,low,5,namecheap,,,25/09/2026 17:31
-d291d981-841d-445b-a48e-e38b17092a9e,slimy.school,available,9.99,46.99,medium,low,5,name.com,,,14/08/2026 04:03
-1c802c54-0f80-473c-a1c0-398bda99d2c1,pathology.school,available,36.49,36.49,high,low,9,namesilo,,,29/09/2026 01:49
-fe2b86f0-d848-427c-95e9-eac7a729c0d2,begetter.school,available,36.49,36.49,medium,low,8,namesilo,,,23/09/2026 02:08
-81a5ec32-1e9e-4624-9300-910f21e1bbe8,curator.school,premium,64.35,128.7,high,low,7,namecheap,,,24/09/2026 17:27
-37583247-230b-4533-8ce9-03df93a866ca,atropa.school,available,36.49,36.49,medium,low,6,namesilo,,,21/09/2026 00:54
-e700faeb-3aeb-4a82-ba56-0fe028dff560,flippant.school,available,9.99,46.99,medium,low,8,name.com,,,18/08/2026 08:32
-91552fa3-a0f3-465e-8df8-05b8869b3f50,praised.school,available,36.49,36.49,medium,low,7,namesilo,,,29/09/2026 16:38
-dd6134ff-96e7-4ef5-91d1-7e7930a78252,expiration.school,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 18:05
-c55e31f4-8a92-478b-a902-60ad3b1f0254,amur.school,available,36.49,36.49,high,low,4,namesilo,,,19/09/2026 00:13
-5d7b054d-9a45-4f8a-beb1-f911098dff4d,capped.school,available,9.99,46.99,medium,low,6,name.com,,,11/08/2026 18:02
-100c8709-388f-4292-b7b9-8bd61aed3af0,juliette.school,available,29.18,29.18,high,low,8,spaceship,,,29/09/2026 15:24
-e612d6f7-a469-4436-9482-4c58e23bce0b,argil.school,available,36.49,36.49,medium,low,5,namesilo,,,20/09/2026 04:20
-723de18a-377e-4d8b-a2f9-3249ad6feda8,travelling.school,available,9.99,,high,low,10,name.com,,,
-87330eb8-1d53-4e28-bd51-85a697559ad3,clearance.school,available,,,high,low,9,,,,
-cde55909-03ac-408e-9c0d-8ecf427d482d,lockdown.school,available,5.57,30.18,high,low,8,dynadot,,,30/09/2026 02:10
-a29c7728-fb4f-436c-a225-68f6a52a4a5d,knapp.school,available,36.49,36.49,medium,low,5,namesilo,,,28/09/2026 08:01
-37968901-a395-40e0-9f3c-d59b53c86979,copenhagen.school,premium,,,high,low,10,,,,29/09/2026 18:27
-ddecbb8e-1343-4a1f-94e8-bd5f12f08eac,brenner.school,available,5.57,30.18,medium,low,7,dynadot,,,28/09/2026 22:08
-6efd368d-2758-4578-b69f-b4f37cd15696,sandwiches.school,available,28.2,28.2,medium,low,10,cloudflare,,,28/09/2026 13:26
+9addd6e4-3565-4d6d-85ce-b8acc22cd4f1,manx.school,available,9.99,46.99,medium,low,4,name.com,,,24/08/2026 15:32
